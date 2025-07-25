@@ -14,9 +14,11 @@ cv:
   sections:
   
     Acerca de mí:
-    - Ingeniero Eléctrico y Electrónico con opción en matemática computacional, orientado a la mejora continua, la eficiencia operativa y la optimización de procesos en entornos industriales. Tengo experiencia en análisis de datos, automatización de tareas técnicas y documentación, con dominio de herramientas de ofimática y manejo de bases de datos.
-    - He trabajado con software de simulación eléctrica y herramientas CAD para diseño y revisión de planos. Me destaco por mi capacidad analítica, organización, atención al detalle y disposición para trabajar en equipos interdisciplinarios, apoyando tareas operativas, análisis de indicadores y soporte en procesos de mejora.
-    - Me motiva aportar en ambientes dinámicos donde cada día presenta nuevos retos, integrando conocimientos técnicos con habilidades de comunicación, liderazgo y aprendizaje constante. Tengo especial interés en aplicar mis habilidades en entornos de producción industrial, donde pueda participar activamente en procesos de mejora continua, análisis de desempeño y seguimiento de operaciones.
+    - Ingeniero Eléctrico e Ingeniero Electrónico con opción en matemática computacional, interesado en diseño de instalaciones eléctricas para infraestructuras. Experiencia en cálculo y dimensionamiento de equipos eléctricos, diseño de sistemas de potencia y conocimiento  de normativas (RETIE, NTC 2050).
+
+    - Apasionado por proyectos de infraestructura eléctrica en sectores industriales, de transporte y energías renovables, particularmente fotovoltaica. Capacidad para trabajar en equipos interdisciplinares y adaptarme a nuevos entornos, con habilidades en herramientas de simulación (ETAP, PVsyst, HOMER pro) y diseño (AutoCAD).
+
+    - Busco contribuir con mi capacidad técnica, enfoque en detalles de diseño y disposición para aprender del equipo. Destaco por mi habilidad para dar soporte técnico en proyectos ingenieriles y trabajar bajo metodologías estructuradas.
 
     Educación:
       - institution: Universidad de los Andes
@@ -27,7 +29,7 @@ cv:
         location: Bogotá, Colombia
         highlights:
           - "Tesis: Análisis técnico-económico de microrredes agrofotovoltaicas en ZNI, incluyendo estudios de flujo de potencia y dimensionamiento de protecciones."
-          - "Cursos Relevantes: Elementos de sistemas eléctricos, sistemas industriales, diseño de subestaciones eléctricas, electrónica de potencia, optimización "
+          - "Cursos Relevantes: Elementos de sistemas eléctricos, sistemas  eléctricos industriales, diseño de subestaciones eléctricas, electrónica de potencia, optimización "
             
       - institution: Universidad de los Andes
         area: Ingeniería electrónica
@@ -96,22 +98,17 @@ cv:
         - "Participé en competencias nacionales e internacionales de programación y robótica, desarrollando habilidades de trabajo en equipo y resolución de problemas en contextos técnicos exigentes."
         - "Programé algoritmos de navegación, reconocimiento de imágenes y lógica de operación, aplicando metodologías de optimización para el desempeño del sistema."  
 
-    - name: Chocolatera Automatizada
-      summary: Diseño y desarrollo de un electrodoméstico automatizado
+    - name: Sistemas Embebidos & Automatización 
+      summary: Diseño e integración de dispositivos IoT (2 proyectos)
       highlights:
-          - "Diseñé el sistema electrónico de una chocolatera, incluyendo planos eléctricos elaborados en Fusion 360 y modelado CAD de la estructura mecánica con AutoCAD."
+          - "Diseñé el sistema electrónico de una electrodomésticos IoT, incluyendo planos eléctricos elaborados en y modelado CAD de la estructura mecánica."
           - "Trabajé de manera colaborativa en la integración de electrónica, mecánica y control, aplicando principios de documentación técnica, manufactura y optimización del diseño."
-
-    - name: Coctelera Inteligente
-      summary: Diseño funcional y prototipado de un dispositivo mecatrónico
-      highlights:
-          - "Participé en el diseño del circuito electrónico y elaboración de planos eléctricos del sistema automatizado para una coctelera."
-          - "Colaboré en la manufactura y documentación del prototipo, así como en la elaboración de archivos CAD para la estructura del dispositivo."
+    
     Habilidades:
         - label: Lenguajes de Programación
           details: "Python, C++, Visual Basic, MATLAB"
         - label: Herramientas 
-          details: "Excel, AutoCAD, ETAP, Fusion360, Simulink, Git, Typhoon HIL, PVsyst, HOMER Pro, QGIS"
+          details: "Excel, PVsyst, ETAP, HOMER Pro, Simulink, Git, Typhoon HIL, AutoCAD, Fusion360, QGIS"
         
         - label: Idiomas
           details: "Inglés (Avanzado C1), Español (Nativo)"      
