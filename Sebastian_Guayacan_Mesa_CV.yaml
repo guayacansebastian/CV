@@ -1,0 +1,696 @@
+# # cv:
+# #   name: Sebastian Guayacan Mesa
+# #   location: Bogotá, CO
+# #   email: guayacansebastian@gmail.com
+# #   phone: +57 3222384366
+# #   website:
+# #   social_networks:
+# #     - network: LinkedIn
+# #       username: Sebastian Guayacan Mesa
+# #     - network: GitHub
+# #       username: guayacansebastian
+# #   sections:
+# #     Acerca de mí:
+    
+# #       # Genérica
+# #       # - Ingeniero Eléctrico y electrónico apasionado por el diseño y desarrollo de proyectos fotovoltaicos con experiencia en  diseño y simulación de sistemas eléctricos. He realizadao proyectos de microrredes y sistemas de distribución con integración de baterías y fuentes de generación PV. 
+# #       # - Cuento con habilidades para simulación y optimización de sistemas de potencia (ETAP, HOMER Pro, Neplan) y dimensionamiento de sistemas fotovoltáicos (PVsyst). Domino lenguajes de programación como Python, MATLAB, Visual Basic y C++, con los que he automatizado análisis de datos y gestionado modelos de simulación en tiempo real (HIL). Tengo destacada capacidad para trabajar bajo presión, habilidad que he desarrollado tanto en mi práctica profesional como durante mi participación en competencias de robótica y hackatones. Estas experiencias me han permitido fortalecer mi trabajo en equipo, priorizar tareas eficientemente y garantizar el cumplimiento de los resultados esperados. 
+# #       # - Me motiva la oportunidad de contribuir al desarrollo del sector eléctrico e industrial. Busco un entorno desafiante donde pueda aplicar mis conocimientos técnicos mientras continúo creciendo profesionalmente.
+
+# #       # PV
+# #       # - Ingeniero Eléctrico y electrónico apasionado por el diseño y desarrollo de proyectos fotovoltaicos con experiencia en  diseño y simulación de sistemas eléctricos. He realizadao proyectos de microrredes y sistemas de distribución con integración de baterías y fuentes de generación PV. 
+# #       # - Cuento con experiencia en el uso de herramientas especializadas para el sector fotovoltaico (PVsyst). Asimismo, tengo habilidades para simulación y optimización de sistemas eléctricos y sistemas de potencia (ETAP, HOMER Pro, Neplan). Domino lenguajes de programación como Python, MATLAB y C++, con los que he automatizado análisis de datos y gestionado modelos de simulación en tiempo real (HIL). Tengo destacada capacidad para trabajar bajo presión, habilidad que he desarrollado tanto en mi práctica profesional como durante mi participación en competencias de robótica y hackatones. Estas experiencias me han permitido fortalecer mi trabajo en equipo, priorizar tareas eficientemente y garantizar el cumplimiento de los resultados esperados. 
+# #       # - Me motiva la oportunidad de contribuir al desarrollo sostenible del país mediante la implementación de sistemas fotovoltaicos eficientes y adaptados a las necesidades locales. Busco un entorno desafiante donde pueda aplicar mis conocimientos técnicos mientras continúo creciendo profesionalmente en el apasionante campo de la energía fotovoltáica
+
+# #       # Electrónca
+# #       # - Ingeniero Electrónico  y eléctrico con experiencia en diseño e implementación de sistemas embebidos y dispositivos electrónicos. Especializado en el desarrollo integral de soluciones hardware/software, desde el diseño de esquemáticos y PCB (manejo de herramientas CAD) hasta la programación e implementación en microcontroladores. Mi participación en el equipo de robótica Robocol me permitió aplicar estos conocimientos en entornos prácticos, liderando el diseño de sistemas electrónicos para robots autónomos, incluyendo circuitos de potencia, interfaces y protocolos de comunicación.
+# #       # - Tengo experiencia en procesos de diseño y prototipado, con capacidad para investigar e implementar nuevas tecnologías que optimicen productos existentes. Mi dominio de estándares de calidad se complementa con habilidades en instrumentación electrónica y pruebas de validación. Adicionalmente, he desarrollado algoritmos y simulaciones para aplicaciones en tiempo real, trabajando con arquitecturas de microprocesadores y optimizando recursos hardware.
+# #       # - Busco oportunidades donde pueda aportar mi capacidad técnica en diseño electrónico, mi enfoque innovador para resolver problemas complejos y mi experiencia trabajando en equipos multidisciplinarios. Mi objetivo es contribuir al desarrollo de productos electrónicos de vanguardia, desde la conceptualización hasta la fase de producción.
+
+# #     educación:
+# #       - institution: Universidad de los Andes
+# #         area: Ingeniería eléctrica
+# #         degree: BS
+# #         date:
+# #         start_date: 2020-01
+# #         end_date: 2025-04
+# #         location: Bogotá, Colombia
+# #         summary:
+# #         highlights:
+          
+# #       - institution: Universidad de los Andes
+# #         area: Ingeniería electrónica
+# #         degree: BS
+# #         date:
+# #         start_date: 2020-01
+# #         end_date: 2025-04
+# #         location: Bogotá, Colombia
+# #         summary:
+# #         highlights:
+          
+
+          
+# #     experiencia:
+# #       - company: Departamento Ingeniería de Sistemas, Universidad de los Andes
+# #         position: Monitor del curso introducción a la programación
+# #         date:
+# #         start_date: 2022-01
+# #         end_date: 2022-06
+# #         location: Bogotá, Colombia
+# #         summary:
+# #         highlights:
+# #           - Ayudé a estudiantes de ingeniería, resolviendo dudas teóricas y prácticas  sobre nociones de programación en python y acompañé el desarrollo de sus proyectos de programación
+      
+# #       - company: IBM 
+# #         position: Practicante de portafolio de sostenibilidad
+# #         date:
+# #         start_date: 2023-07
+# #         end_date: 2024-01
+# #         location: Híbrido
+# #         summary:
+# #         highlights:
+# #           - Trabajé con el equipo de ventas digitales de productos de software de sostenibilidad para 5 países de Latinoamérica, brindando soporte técnico especializado 
+# #           - Realicé dimensionamiento  y demostración de soluciones para gestión y desempeño de activos empresariales (EAM, APM), mantenimiento predictivo con IA e inspecciones visuales, análisis de huella de carbono, integración con estándares ESG  adaptadas a necesidades de clientes 
+# #           # - Colaboré con el equipo de marketing planeando, diseñando y ejecutando campañas digitales para acelerar la venta de productos desde una perspectiva ingenieril
+
+# #           # - Trabajé con el equipo de ventas digitales de productos de software de sostenibilidad para 5 países de Latinoamérica, brindando soporte técnico especializado 
+# #           # - Realicé dimensionamiento  y demostración de soluciones para gestión y desempeño de activos empresariales (EAM, APM), mantenimiento predictivo con IA e inspecciones visuales, análisis de huella de carbono, integración con estándares ESG  adaptadas a necesidades de clientes 
+# #           # - Colaboré con el equipo de marketing planeando, diseñando y ejecutando campañas digitales para acelerar la venta de productos desde una perspectiva ingenieril
+# #       - company: IBM     
+# #         position: Practicante de portafolio de datos e inteligencia artificial
+# #         date:
+# #         start_date: 2024-01
+# #         end_date: 2024-06
+# #         location: Híbrido
+# #         summary:
+# #         highlights:
+# #           - Trabajé con el equipo de ventas digitales de productos de software de Data & AI para 9 países de Latinoamérica, brindando soporte técnico y aasistencia en labores operativas
+# #           - Realicé dimensionamiento técnico y demostración de soluciones para soluciones de AI, análisis de datos, automatización de procesos y  asistentes virtuales  
+# #           # - Diseñé y ejecuté campañas de demanda B2B para el portafolio datos & IA, transformando capacidades técnicas en narrativas comerciales para clientes industriales
+# #       - company: Departamento Ingeniería eléctrica y electrónica, Universidad de los Andes
+# #         position: Monitor del curso economía de sistemas de potencia
+# #         date:
+# #         start_date: 2024-01
+# #         end_date: 2024-06
+# #         location: Bogotá, Colombia
+# #         summary:
+# #         highlights:
+# #         - Asistí en la enseñanza de principios económicos de sistemas de potencia, incluyendo despacho económico, flujo óptimo de potencia (OPF), y casación de energía desde la perspectiva de actores del mercado eléctrico (generadores, comercializadores, operadores)
+# #         - Organicé y dirigí una simulación interactiva de mercado eléctrico, actuando como operador de red para  gestionar ofertas de energía en sistemas uninodales y multinodales, ejecutar despacho económico y OPF
+# #       - company: Departamento Ingeniería eléctrica y electrónica, Universidad de los Andes
+# #         position: Monitor del curso electrónica de potencia
+# #         date:
+# #         start_date: 2024-07
+# #         end_date: 2024-12
+# #         location: Bogotá, Colombia
+# #         summary:
+# #         highlights:
+# #         - Asistí en la enseñanza principios de semiconductores y diseño de conversores (AC/DC, DC/DC, DC/AC)
+# #         - Ayudé a implementar proyectos de electrónica de potencia que vincularon teoría con aplicaciones industriales como rectificadores y modulación SPWM
+# #         - Guié a estudiantes en implementaciones Hardware-in-the-Loop (Typhoon HIL), supervisión con sistemas SCADA y prototipos físicos con microprocesadores, integrando modelos simulados con circuitos reales
+
+
+# #     proyectos:
+# #       - name: ([Robocol](https://www.instagram.com/robocol/))
+# #         date:
+# #         start_date: 2021-01
+# #         end_date: 2023-06
+# #         location:
+# #         summary: Iniciativa estudiantil de robótica para competencias y divulgación STEM
+# #         highlights:
+# #           - Particpé en el diseño, manufacturación y operación de 2 iteraciones de un rover de exploración marciana. Lideré el control de movimiento, navegación autónoma, electrónica, potencia, comunicaciones y desarrollo de algoritmos para su funcionamiento.
+# #           - Participé  competencias de robótica nacionales e internacionales e hice parte de espacios de difusión con entidades privadas y académicas
+# #       - name: Grupo de investigación en automatización para la producción (GIAP)
+# #         date: 
+# #         start_date: 2024-05
+# #         end_date: present
+# #         location:
+# #         summary:
+# #         highlights:
+# #           - Participé activamente en la discusión de artículos científicos y en la retroalimentación de proyectos, enfocándome especialmente en aplicaciones agrícolas y energéticas
+# #           - Desarrollé mis dos tesis de pregrado sobre sistemas agrofotovoltaicos, modelado dinámico de cultivos, simulación de generación fotovoltaica, y dimensionamiento de microrredes para zonas no interconectadas (ZNIs)
+# #     Habilidades:
+# #       - label: Herramientas computacionales 
+# #         details: ETAP, Neplan, PVsyst, HOMER Pro, Typhoon HIL, Excel, Simulink, Arduino, ROS, Github.
+
+# #       - label: Programación
+# #         details: Python, Matlab, C++, Visual Basic
+# #       - label: Idiomas
+# #         details: Inglés (avanzado C1), Español (nativo)
+# #     
+# # design:
+# #   theme: engineeringclassic
+
+# # locale:
+# #   language: es
+# #   phone_number_format: national
+# #   page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+# #   last_updated_date_template: Actualizado en abril-2025
+# #   date_template: MONTH_ABBREVIATION YEAR
+# #   month: month
+# #   months: months
+# #   year: year
+# #   years: years
+# #   present: present
+# #   to: –
+# #   abbreviations_for_months:
+# #     - Ene
+# #     - Feb
+# #     - Mar
+# #     - Abr
+# #     - May
+# #     - Jun
+# #     - Jul
+# #     - Ago
+# #     - Sep
+# #     - Oct
+# #     - Nov
+# #     - Dec
+# #   full_names_of_months:
+# #     - January
+# #     - February
+# #     - March
+# #     - April
+# #     - May
+# #     - June
+# #     - July
+# #     - August
+# #     - September
+# #     - October
+# #     - November
+# #     - December
+# # rendercv_settings:
+# #   date: '2025-03-26'
+# #   render_command:
+# #   bold_keywords: []
+
+########################################################################################################################################3
+# cv:
+#   name: Sebastian Guayacan Mesa
+#   location: Bogotá, CO
+#   email: guayacansebastian@gmail.com
+#   phone: +57 3222384366
+#   website:
+#   social_networks:
+#     - network: LinkedIn
+#       username: Sebastian Guayacan Mesa
+#     - network: GitHub
+#       username: guayacansebastian
+  
+#   sections:
+#     Acerca de mí:
+#       - "Ingeniero Eléctrico y Electrónico especializado en mantenimiento de activos fotovoltaicos y sistemas de distribución, con experiencia en evaluación de contratistas O&M y optimización de planes de mantenimiento."
+#       - "Experto en análisis técnico de sistemas fotovoltaicos (PVsyst), cumplimiento de normativas RETIE y estándares HSE. Domino herramientas como ETAP y Python para automatización de reportes técnicos y análisis de degradación de equipos."
+#       - "Destaco por mi capacidad para supervisar la ejecución de actividades de mantenimiento, reducir OPEX y garantizar disponibilidad operativa en plantas solares. Busco contribuir en Cubico aplicando mi conocimiento en gestión de activos renovables."
+
+#     educación:
+#       - institution: Universidad de los Andes
+#         area: Ingeniería eléctrica
+#         degree: BS
+#         start_date: 2020-01
+#         end_date: 2025-04
+#         location: Bogotá, Colombia
+#         highlights:
+#           - "Tesis: Análisis técnico-económico de microrredes agrofotovoltaicas en ZNI, incluyendo planes de mantenimiento preventivo y análisis de fallos."
+#           - "Cursos avanzados: Diseño de subestaciones, protección de sistemas eléctricos, gestión de activos energéticos."
+          
+#       - institution: Universidad de los Andes
+#         area: Ingeniería electrónica
+#         degree: BS
+#         start_date: 2020-01
+#         end_date: 2025-04
+#         location: Bogotá, Colombia
+#         highlights:
+#            - "Tesis: Modelado dinámico de sistemas agrofotovoltaicos con simulación de degradación de componentes."
+#            - "Enfoque en: Automatización industrial y sistemas SCADA para monitoreo de activos."
+
+#     experiencia:
+#       - company: IBM
+#         position: Practicante de Portafolio de Sostenibilidad
+#         start_date: 2023-07
+#         end_date: 2024-01
+#         location: Híbrido (LATAM)
+#         highlights:
+#           - "Evalué desempeño de contratistas de mantenimiento predictivo (IA) en 5 países, validando cumplimiento de especificaciones técnicas y estándares ESG."
+#           - "Automaticé análisis de datos (Python) para optimizar planes de mantenimiento y reducir OPEX en operaciones energéticas."
+
+#       - company: Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes
+#         position: Monitor del curso electrónica de potencia
+#         start_date: 2024-07
+#         end_date: 2024-12
+#         location: Bogotá, Colombia
+#         highlights:
+#           - "Supervisé prototipos industriales con sistemas SCADA/HIL, verificando cumplimiento de especificaciones técnicas en equipos de potencia."
+#           - "Implementé protocolos de inspección para componentes eléctricos en entornos de alta exigencia."
+
+#     proyectos:
+#       - name: Investigación en Microrredes (GIAP)
+#         start_date: 2022-01
+#         end_date: 2025-04
+#         highlights:
+#           - "Desarrollé planes de mantenimiento preventivo para sistemas fotovoltaicos en ZNI, incluyendo análisis de degradación con PVsyst."
+#           - "Elaboré informes técnicos con recomendaciones para optimizar disponibilidad operativa."
+
+#     Habilidades:
+#       - label: Mantenimiento de Activos
+#         details: "Gestión de contratistas O&M, optimización de OPEX, inspección de plantas solares, normativa RETIE."
+      
+#       - label: Herramientas Técnicas
+#         details: "PVsyst (degradación de paneles), ETAP (protecciones), SCADA/HIL, Python (automatización)."
+      
+#       - label: Seguridad y Normativas
+#         details: "Estándares HSE, protocolos de seguridad en mantenimiento, análisis de riesgos."
+      
+#       - label: Idiomas
+#         details: "Inglés (C1 - documentación técnica), Español (Nativo)."
+        
+# cv:
+#   name: Sebastian Guayacan Mesa
+#   location: Bogotá, CO
+#   email: guayacansebastian@gmail.com
+#   phone: +57 3222384366
+#   website:
+#   social_networks:
+#     - network: LinkedIn
+#       username: Sebastian Guayacan Mesa
+#     - network: GitHub
+#       username: guayacansebastian
+  
+#   sections:
+  
+#     Acerca de mí:
+#       - Ingeniero Eléctrico y electrónico apasionado por el diseño y desarrollo de proyectos fotovoltaicos con experiencia en diseño y simulación de sistemas eléctricos. He realizadao proyectos de microrredes, sistemas de distribución con integración de baterías y fuentes de generación. 
+#       - Cuento con habilidades para simulación y optimización de sistemas de potencia (ETAP, HOMER Pro, Neplan) y dimensionamiento de sistemas fotovoltáicos (PVsyst). Domino lenguajes de programación como Python, MATLAB, Visual Basic y C++, con los que he automatizado análisis de datos, implementado algoritmos  y gestionado modelos de simulación.
+#       - "Destaco por mi:
+#         • Pasión por sistemas eléctricos industriales, energías renovables y desarrollo de soluciones innovadoras.
+#         • Capacidad de aprendizaje acelerado
+#         • Enfoque orientado a objetivos 
+#         • Inglés avanzado (C1) "
+      
+
+# ############################################################################
+#       # - "Ingeniero Eléctrico y Electrónico apasionado por sistemas de control, protecciones y diseño de sistemas eléctricos. Con formación especializada en electrónica de potencia, coordinación de protecciones y configuración de sistemas industriales (SCADA/HIL), adquirida mediante proyectos académicos y mi experiencia como monitor universitario."
+      
+#       # - "Experiencia en simulación de sistemas de potencia (ETAP, Neplan, Simulink) y dominio de herramientas especializadas (PVsyst, HOMER Pro) y lenguajes de programación (Python, C++, Visual Basic). Durante mi práctica profesional en IBM, desarrollé habilidades en evaluación de soluciones técnico-comerciales adaptadas a requerimientos de clientes en diversos sectores industriales."
+      
+#       # - "Destaco por mi:
+#       #   • Capacidad de aprendizaje acelerado
+#       #   • Enfoque orientado a objetivos y habilidades organizativas
+#       #   • Inglés avanzado (C1) para coordinación internacional
+#       #   • Pasión por sistemas eléctricos industriales y desarrollo de soluciones innovadoras en control/protección eléctrica."
+# ###########################################################################    
+
+#     Educación:
+#       - institution: Universidad de los Andes
+#         area: Ingeniería eléctrica
+#         degree: BS
+#         start_date: 2020-01
+#         end_date: 2025-04
+#         location: Bogotá, Colombia
+#         highlights:
+#           - "Tesis: Análisis técnico-económico de microrredes agrofotovoltaicas en ZNI, incluyendo estudios de flujo de potencia y dimensionamiento de protecciones."
+#           - "Cursos Relevantes:Diseño de microrredes, sistemas industriales, diseño de subestaciones eléctricas, electrónica de potencia "
+            
+#       - institution: Universidad de los Andes
+#         area: Ingeniería electrónica
+#         degree: BS
+#         start_date: 2020-01
+#         end_date: 2025-04
+#         location: Bogotá, Colombia
+#         highlights:
+#             - "Tesis: Modelado dinámico de cultivos en sistemas agrofotovoltaicos, con simulación de generación distribuida y análisis de estabilidad."
+#             - "Cursos Relevantes: Sistemas de control, automatización industrial, aprendizaje y evolución de sistemas y robótica."
+
+#     Experiencia:
+      
+#       - company: IBM 
+#         position: Practicante de portafolio de sostenibilidad
+#         start_date: 2023-07
+#         end_date: 2024-01
+#         location: Híbrido
+#         highlights:
+#           - Brindé soporte técnico especializado al equipo de ventas digitales de productos de sostenibilidad en 5 países LATAM, dimensionamiento soluciones de gestión y desempeño de activos empresariales, mantenimiento predictivo con IA y análisis de huella de carbono con estándares ESG.
+
+#           # - "Evalué soluciones técnicas de proveedores según especificaciones de clientes en 5 países LATAM"
+#           # - "Analicé requerimientos técnicos para mantenimiento predictivo con IA en activos industriales"
+
+#       - company: IBM     
+#         position: Practicante de portafolio de datos e inteligencia artificial
+#         start_date: 2024-01
+#         end_date: 2024-06
+#         location: Híbrido
+#         highlights:
+#           - "Colaboré con el equipo de ventas digitales de productos de software de Data & AI para 9 países LATAM, brindando soporte técnico y asistencia en labores operativas."
+#           - "Realicé dimensionamiento técnico y demostración de soluciones de IA, análisis de datos, automatización de procesos y asistentes virtuales."
+#           # - "Dimensioné soluciones técnicas de IA según especificaciones comerciales para 9 países"
+#           # - "Preparé documentación técnica para ofertas comerciales de automatización de procesos"
+#       - company: Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes
+#         position: Monitor del curso economía de sistemas de potencia
+#         start_date: 2024-01
+#         end_date: 2024-06
+#         location: Bogotá, Colombia
+#         highlights:
+#           - Asistí en la enseñanza de principios económicos de sistemas de potencia, incluyendo despacho económico, flujo óptimo de potencia (OPF), y casación de energía desde la perspectiva de actores del mercado eléctrico
+#           - Organicé y dirigí una simulación interactiva de mercado eléctrico, actuando como operador de red para gestionar ofertas de energía en sistemas uninodales y multinodales, ejecutar despacho económico y OPF
+#           # - "Diseñé y dirigí simulaciones de mercado eléctrico aplicando teoría de juegos para optimizar ofertas económicas"
+#           # - "Enseñé principios de despacho económico (OPF) y análisis de estrategias de ofertantes"
+
+#       - company: Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes
+#         position: Monitor del curso electrónica de potencia
+#         start_date: 2024-07
+#         end_date: 2024-12
+#         location: Bogotá, Colombia
+#         highlights:
+#           - "Asistí en la enseñanza de principios de semiconductores y diseño de conversores (AC/DC, DC/DC, DC/AC)."
+#           - "Ayudé a implementar proyectos de simulación en tiempo real (HIL) para rectificadores y control digital con modulación SPWM."
+          
+#       - company: HERON Agrodrones (Independiente)
+#         position: Desarrollador e integrador de sistemas
+#         start_date: 2025-04
+#         end_date: 2025-07
+#         location: Remoto
+#         highlights:
+#           - "Diseño e implementación de pipeline de análisis para inspección visual de cultivos: Procesamiento de imágenes multiespectrales, implementando algoritmos de cálculo de índices especializados y modelos para detección de anomalías y evaluación de estado de salud."  
+#           - "Gestión de datos geoespaciales: Arquitectura de procesamiento para imágenes georreferenciadas, integrando herramientas de visión computacional, optimización y frameworks de IA para generar mapas de salud vegetal y recomendaciones."
+
+      
+#     Proyectos:
+#         - name: Robocol
+#           start_date: 2021-01
+#           end_date: 2023-06
+#           summary: Equipo de robótica competitiva y divulgación STEM
+#           highlights:
+#             - "Lideré el diseño eléctrico para  un rover marciano: dimensionamiento de sistema de potencia, diseño de comunicaciones, programación de algoritmos de control y navegación autónoma."
+#             - "Participé en comptencias de programación y robótica  nacionales e internacionales, desarrollando habilidades de trabajo en equipo y resolución de problemas."
+#             # - "Lideré el desarrollo de sistemas de control en tiempo real bajo plazos ajustados"
+#             # - "Trabajo colaborativo en entornos técnicos de alta presión"
+
+#     Habilidades:
+#         # - label: Conocimientos Especializados
+#         #   details: "Protecciones eléctricas, Configuración de subestaciones, SCADA/HIL, Análisis de ofertas (teoría de juegos)"
+        
+#         - label: Herramientas 
+#           details: "Excel,Autocad, ETAP, Typhoon HIL, PVsyst, HOMER Pro, Simulink, QGIS"
+        
+#         - label: Idiomas
+#           details: "Inglés (Avanzado C1), Español (Nativo)"      
+#   design:
+#   theme: engineeringclassic
+
+# locale:
+#   language: es  # Asegúrate que esté en español
+#   phone_number_format: national
+#   page_numbering_template: NAME - Página PAGE_NUMBER de TOTAL_PAGES
+#   last_updated_date_template: Actualizado en abril-2025
+#   date_template: MONTH_ABBREVIATION YEAR
+#   month: mes
+#   months: meses
+#   year: año
+#   years: años
+#   present: presente
+#   to: –
+#   abbreviations_for_months:
+#     - Ene
+#     - Feb
+#     - Mar
+#     - Abr
+#     - May
+#     - Jun
+#     - Jul
+#     - Ago
+#     - Sep
+#     - Oct
+#     - Nov
+#     - Dic
+#   full_names_of_months:
+#     - Enero
+#     - Febrero
+#     - Marzo
+#     - Abril
+#     - Mayo
+#     - Junio
+#     - Julio
+#     - Agosto
+#     - Septiembre
+#     - Octubre
+#     - Noviembre
+#     - Diciembre
+
+# rendercv_settings:
+#   date: '2025-03-26'
+#   render_command:
+#   bold_keywords: []  
+
+#######################################################################################################################################
+# cv:
+#   name: Sebastian Guayacan Mesa
+#   location: Bogotá, CO
+#   email: guayacansebastian@gmail.com
+#   phone: +57 3222384366
+#   website:
+#   social_networks:
+#     - network: LinkedIn
+#       username: Sebastian Guayacan Mesa
+#     - network: GitHub
+#       username: guayacansebastian
+  
+#   sections:
+#     Acerca de mí:
+#       - "Ingeniero Eléctrico y Electrónico con experiencia en simulación de plantas de generación y análisis de sistemas de potencia (ETAP, Neplan, PVsyst, HOMER). Conocimientos en máquinas eléctricas y generadores, aplicados al diseño de soluciones energéticas eficientes."
+#       - "He liderado proyectos técnicos que requieren preparación de documentación (planos, manuales), simulación de flujo de potencia y trabajo en equipo. Domino herramientas como Python, Excel y Simulink para optimizar procesos técnico y comerciales."
+#       - "Destaco por mi capacidad para analizar requisitos complejos cumpliendo con estándares de calidad. Busco aportar  mi combinación de habilidades técnicas y competencias comerciales, trabajando en el sector energético para contribuir a la sostenibilidad y eficiencia de proyectos."
+#     educación:
+#       - institution: Universidad de los Andes
+#         area: Ingeniería eléctrica
+#         degree: BS
+#         start_date: 2020-01
+#         end_date: 2025-04
+#         location: Bogotá, Colombia
+#         highlights:
+#           - "Tesis: Análisis técnico-económico de microrredes agrofotovoltaicas en ZNI, incluyendo estudios de flujo de potencia y dimensionamiento de protecciones."
+#           - "Cursos avanzados:Diseño de microrredes, sistemas industriales, Diseño y protección de subestaciones."
+          
+#       - institution: Universidad de los Andes
+#         area: Ingeniería electrónica
+#         degree: BS
+#         start_date: 2020-01
+#         end_date: 2025-04
+#         location: Bogotá, Colombia
+#         highlights:
+#            - "Tesis: Modelado dinámico de cultivos en sistemas agrofotovoltaicos, con simulación de generación distribuida y análisis de estabilidad."
+#            - "Enfoque en: Sistemas de contro, automatización industrial y robótica."
+
+#     experiencia:
+#       - company: IBM
+#         position: Practicante de Portafolio de Sostenibilidad
+#         start_date: 2023-07
+#         end_date: 2024-01
+#         location: Híbrido
+#         highlights:
+#           - "Preparación de ofertas técnicas para soluciones de mantenimiento predictivo (IA) en 5 países LATAM, analizando especificaciones de equipos y requisitos comerciales." 
+#       - company: IBM
+#         position: Practicante de Portafolio de Inteligencia Artificial y Datos
+#         start_date: 2024-01
+#         end_date: 2024-06
+#         highlights:
+#           - "Dimensionamiento técnico de soluciones de IA y automatización de procesos para 9 países, optimizando documentación técnica y soporte a ventas."
+            
+
+#       - company: Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes
+#         position: Monitor del curso electrónica de potencia
+#         start_date: 2024-07
+#         end_date: 2024-12
+#         location: Bogotá, Colombia
+#         highlights:
+#           - "Diseñé prototipos industriales con conversores de potencia (SVPWM) y validación HIL (Typhoon), asegurando cumplimiento de normativas."
+#           - "Desarrollo de poroyectos de electrónica de potencia con simulación en SCADA."
+
+#       - company: Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes
+#         position: Monitor del curso economía de sistemas de potencia
+#         start_date: 2024-01
+#         end_date: 2024-06
+#         location: Bogotá, Colombia
+#         highlights:
+#           - "Simulé flujos óptimos de potencia (OPF) y despacho económico en redes multimodales, aplicando criterios técnico-económicos."
+
+#     proyectos:
+#       - name: Robocol (Equipo de robótica competitiva)
+#         start_date: 2021-01
+#         end_date: 2023-06
+#         highlights:
+#           - "Lideré el diseño de sistemas de potencia para rover marciano: dimensionamiento de sistema de potencia, protecciones  en entornos de alta exigencia."
+#           - "Implementé controladores en C++ para gestión autónoma de energía (baterías)."
+
+    
+#     Habilidades:
+#       - label: Herramientas
+#         details: "Etap, HOMER-Pro,Typhoon HIL, MATLAB, Simulink, Excel, GitHub."
+      
+#       - label: Lenguajes de Programación
+#         details: Python, C++, Visual Basic, MATLAB.
+#       - label: Idiomas
+#         details: "Inglés (Avanzado C1), Español (Nativo)."
+
+##########################################################################################################
+cv:
+  name: Sebastian Guayacan Mesa
+  location: Bogotá, CO
+  email: guayacansebastian@gmail.com
+  phone: +57 3222384366
+  website:
+  social_networks:
+    - network: LinkedIn
+      username: Sebastian Guayacan Mesa
+    - network: GitHub
+      username: guayacansebastian
+  
+  sections:
+  
+    Acerca de mí:
+    - Ingeniero Eléctrico y Electrónico con opción en matemática computacional, orientado a la mejora continua, la eficiencia operativa y la optimización de procesos en entornos industriales. Tengo experiencia en análisis de datos, automatización de tareas técnicas y documentación, con dominio de herramientas de ofimática y manejo de bases de datos.
+    - He trabajado con software de simulación eléctrica y herramientas CAD para diseño y revisión de planos. Me destaco por mi capacidad analítica, organización, atención al detalle y disposición para trabajar en equipos interdisciplinarios, apoyando tareas operativas, análisis de indicadores y soporte en procesos de mejora.
+    - Me motiva aportar en ambientes dinámicos donde cada día presenta nuevos retos, integrando conocimientos técnicos con habilidades de comunicación, liderazgo y aprendizaje constante. Tengo especial interés en aplicar mis habilidades en entornos de producción industrial, donde pueda participar activamente en procesos de mejora continua, análisis de desempeño y seguimiento de operaciones.
+
+    Educación:
+      - institution: Universidad de los Andes
+        area: Ingeniería eléctrica
+        degree: BS
+        start_date: 2020-01
+        end_date: 2025-04
+        location: Bogotá, Colombia
+        highlights:
+          - "Tesis: Análisis técnico-económico de microrredes agrofotovoltaicas en ZNI, incluyendo estudios de flujo de potencia y dimensionamiento de protecciones."
+          - "Cursos Relevantes: Elementos de sistemas eléctricos, sistemas industriales, diseño de subestaciones eléctricas, electrónica de potencia, optimización "
+            
+      - institution: Universidad de los Andes
+        area: Ingeniería electrónica
+        degree: BS
+        start_date: 2020-01
+        end_date: 2025-04
+        location: Bogotá, Colombia
+        highlights:
+            - "Tesis: Modelado dinámico de cultivos en sistemas agrofotovoltaicos, con simulación de generación distribuida y análisis de estabilidad."
+            - "Cursos Relevantes: Sistemas de apoyo a la decisión, estructuras de datos y algoritmos, sistemas de control, aprendizaje y evolución de sistemas, robótica."
+
+    Experiencia:
+      
+      - company: IBM 
+        position: Practicante de portafolio de sostenibilidad
+        start_date: 2023-07
+        end_date: 2024-01
+        location: Híbrido
+        highlights:
+          - Brindé soporte técnico especializado al equipo de ventas digitales de productos de sostenibilidad en 5 países LATAM, dimensionamiento soluciones de gestión y desempeño de activos empresariales, mantenimiento predictivo con IA y análisis de huella de carbono con estándares ESG.
+
+          
+      - company: IBM     
+        position: Practicante de portafolio de datos e inteligencia artificial
+        start_date: 2024-01
+        end_date: 2024-06
+        location: Híbrido
+        highlights:
+          - "Colaboré con el equipo de ventas digitales de productos de software de Data & AI para 9 países LATAM, brindando soporte técnico y asistencia en labores operativas."
+          - "Realicé dimensionamiento técnico y demostración de soluciones de IA, análisis de datos, automatización de procesos y asistentes virtuales."
+          
+      - company: Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes
+        position: Monitor del curso economía de sistemas de potencia
+        start_date: 2024-01
+        end_date: 2024-06
+        location: Bogotá, Colombia
+        highlights:
+          - Asistí en la enseñanza de principios económicos de sistemas de potencia, incluyendo despacho económico, flujo óptimo de potencia (OPF), y casación de energía desde la perspectiva de actores del mercado eléctrico
+          - Organicé y dirigí una simulación interactiva de mercado eléctrico, actuando como operador de red para gestionar ofertas de energía en sistemas uninodales y multinodales, ejecutar despacho económico y OPF
+         
+      - company: Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes
+        position: Monitor del curso electrónica de potencia
+        start_date: 2024-07
+        end_date: 2024-12
+        location: Bogotá, Colombia
+        highlights:
+          - "Asistí en la enseñanza de principios de semiconductores, elementos de sistemas eléctricos y diseño de conversores (AC/DC, DC/DC, DC/AC)."
+          - "Ayudé a implementar proyectos de simulación en tiempo real (HIL) para rectificadores, transformadores tridevanados y control digital con modulación SPWM."
+          
+      - company: HERON Agrodrones - Independiente
+        position: Desarrollador e integrador de sistemas
+        start_date: 2025-04
+        end_date: 2025-07
+        location: Remoto
+        highlights:
+          - "Diseño y automatización del pipeline de análisis para inspección visual de cultivos: Procesamiento de imágenes multiespectrales, algoritmos de cálculo de índices especializados y modelos para detección de anomalías y evaluación de estado de salud."  
+          - "Gestión de datos geoespaciales: Arquitectura de procesamiento para imágenes georreferenciadas, integración de herramientas de visión computacional, optimización y frameworks de IA para generar mapas de salud vegetal y recomendaciones."
+          - Automatización de procesos repetitivos y estandarización de documentación técnica para facilitar toma de decisiones.
+
+      
+    Proyectos:
+    - name: Robocol
+      summary: Líder de equipo de robótica competitiva y divulgación STEM
+      highlights:
+        - "Lideré el diseño eléctrico para un rover marciano: Diseño de planos del sistema eléctrico y de potencia, diseño de sistema de comunicaciones y programación de algoritmos."
+        - "Participé en competencias nacionales e internacionales de programación y robótica, desarrollando habilidades de trabajo en equipo y resolución de problemas en contextos técnicos exigentes."
+        - "Programé algoritmos de navegación, reconocimiento de imágenes y lógica de operación, aplicando metodologías de optimización para el desempeño del sistema."  
+
+    - name: Chocolatera Automatizada
+      summary: Diseño y desarrollo de un electrodoméstico automatizado
+      highlights:
+          - "Diseñé el sistema electrónico de una chocolatera, incluyendo planos eléctricos elaborados en Fusion 360 y modelado CAD de la estructura mecánica con AutoCAD."
+          - "Trabajé de manera colaborativa en la integración de electrónica, mecánica y control, aplicando principios de documentación técnica, manufactura y optimización del diseño."
+
+    - name: Coctelera Inteligente
+      summary: Diseño funcional y prototipado de un dispositivo mecatrónico
+      highlights:
+          - "Participé en el diseño del circuito electrónico y elaboración de planos eléctricos del sistema automatizado para una coctelera."
+          - "Colaboré en la manufactura y documentación del prototipo, así como en la elaboración de archivos CAD para la estructura del dispositivo."
+    Habilidades:
+        - label: Lenguajes de Programación
+          details: "Python, C++, Visual Basic, MATLAB"
+        - label: Herramientas 
+          details: "Excel, AutoCAD, ETAP, Fusion360, Simulink, Git, Typhoon HIL, PVsyst, HOMER Pro, QGIS"
+        
+        - label: Idiomas
+          details: "Inglés (Avanzado C1), Español (Nativo)"      
+  design:
+  theme: engineeringclassic
+
+locale:
+  language: es  # Asegúrate que esté en español
+  phone_number_format: national
+  page_numbering_template: NAME - Página PAGE_NUMBER de TOTAL_PAGES
+  last_updated_date_template: Actualizado en Julio-2025
+  date_template: MONTH_ABBREVIATION YEAR
+  month: mes
+  months: meses
+  year: año
+  years: años
+  present: presente
+  to: –
+  abbreviations_for_months:
+    - Ene
+    - Feb
+    - Mar
+    - Abr
+    - May
+    - Jun
+    - Jul
+    - Ago
+    - Sep
+    - Oct
+    - Nov
+    - Dic
+  full_names_of_months:
+    - Enero
+    - Febrero
+    - Marzo
+    - Abril
+    - Mayo
+    - Junio
+    - Julio
+    - Agosto
+    - Septiembre
+    - Octubre
+    - Noviembre
+    - Diciembre
+
+rendercv_settings:
+  date: '2025-03-26'
+  render_command:
+  bold_keywords: []  
