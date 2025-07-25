@@ -9,20 +9,13 @@
 
 # Acerca De Mí
 
-Ingeniero Eléctrico y Electrónico con opción en matemática computacional, orientado a la mejora continua, la eficiencia operativa y la optimización de procesos en entornos industriales. Tengo experiencia en análisis de datos, automatización de tareas técnicas y documentación, con dominio de herramientas de ofimática y manejo de bases de datos.
+Ingeniero Eléctrico y Electrónico con experiencia en desarrollo de software, automatización de procesos y arquitectura de sistemas. Apasionado por construir soluciones escalables y eficientes, con habilidades comprobadas en Python, C++ y manejo de frameworks como ROS para integración de sistemas complejos.
 
-He trabajado con software de simulación eléctrica y herramientas CAD para diseño y revisión de planos. Me destaco por mi capacidad analítica, organización, atención al detalle y disposición para trabajar en equipos interdisciplinarios, apoyando tareas operativas, análisis de indicadores y soporte en procesos de mejora.
+En mis roles previos, diseñé pipelines de datos, algoritmos de visión computacional y APIs embebidas, siempre enfocado en optimización y documentación de código. Disfruto colaborar en equipos ágiles, compartir conocimientos (como monitor universitario) y resolver problemas técnicos desafiantes.
 
-Me motiva aportar en ambientes dinámicos donde cada día presenta nuevos retos, integrando conocimientos técnicos con habilidades de comunicación, liderazgo y aprendizaje constante. Tengo especial interés en aplicar mis habilidades en entornos de producción industrial, donde pueda participar activamente en procesos de mejora continua, análisis de desempeño y seguimiento de operaciones.
+Busco aplicar mi experiencia en un entorno dinámico, donde pueda contribuir al diseño e implementación de software de calidad.
 
 # Educación
-
-## Universidad de los Andes, BS in Ingeniería eléctrica
-
-- Ene 2020 – Abr 2025
-- Bogotá, Colombia
-- Tesis: Análisis técnico-económico de microrredes agrofotovoltaicas en ZNI, incluyendo estudios de flujo de potencia y dimensionamiento de protecciones.
-- Cursos Relevantes: Elementos de sistemas eléctricos, sistemas industriales, diseño de subestaciones eléctricas, electrónica de potencia, optimización 
 
 ## Universidad de los Andes, BS in Ingeniería electrónica
 
@@ -30,6 +23,13 @@ Me motiva aportar en ambientes dinámicos donde cada día presenta nuevos retos,
 - Bogotá, Colombia
 - Tesis: Modelado dinámico de cultivos en sistemas agrofotovoltaicos, con simulación de generación distribuida y análisis de estabilidad.
 - Cursos Relevantes: Sistemas de apoyo a la decisión, estructuras de datos y algoritmos, sistemas de control, aprendizaje y evolución de sistemas, robótica.
+
+## Universidad de los Andes, BS in Ingeniería eléctrica
+
+- Ene 2020 – Abr 2025
+- Bogotá, Colombia
+- Tesis: Análisis técnico-económico de microrredes agrofotovoltaicas en ZNI, incluyendo estudios de flujo de potencia y dimensionamiento de protecciones.
+- Cursos Relevantes: Elementos de sistemas eléctricos, sistemas industriales, diseño de subestaciones eléctricas, electrónica de potencia, optimización 
 
 # Experiencia
 
@@ -50,15 +50,14 @@ Me motiva aportar en ambientes dinámicos donde cada día presenta nuevos retos,
 
 - Ene 2024 – Jun 2024
 - Bogotá, Colombia
-- Asistí en la enseñanza de principios económicos de sistemas de potencia, incluyendo despacho económico, flujo óptimo de potencia (OPF), y casación de energía desde la perspectiva de actores del mercado eléctrico
-- Organicé y dirigí una simulación interactiva de mercado eléctrico, actuando como operador de red para gestionar ofertas de energía en sistemas uninodales y multinodales, ejecutar despacho económico y OPF
+- Lideré una simulación interactiva de mercado eléctrico para 30+ estudiantes, explicando conceptos complejos (despacho económico, flujo óptimo).
+- Actué como operador de red, interpretando necesidades de actores del mercado (similares a clientes) y traduciéndolas a configuraciones técnicas en sistemas uninodales/multinodales.
 
-## Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes, Monitor del curso electrónica de potencia
+## Departamento Ingeniería de Sistemas, Universidad de los Andes, Monitor del curso Introducción a la programación
 
-- Jul 2024 – Dic 2024
+- Ene 2023 – Jun 2023
 - Bogotá, Colombia
-- Asistí en la enseñanza de principios de semiconductores, elementos de sistemas eléctricos y diseño de conversores (AC/DC, DC/DC, DC/AC).
-- Ayudé a implementar proyectos de simulación en tiempo real (HIL) para rectificadores, transformadores tridevanados y control digital con modulación SPWM.
+- Asistí en la enseñanza de fundamentos de programación a 20+ estudiantes fomentando buenas prácticas de programación y resolviendo dudas en proyectos de programaci+on y manejo de datos.
 
 ## HERON Agrodrones - Independiente, Desarrollador e integrador de sistemas
 
@@ -72,22 +71,17 @@ Me motiva aportar en ambientes dinámicos donde cada día presenta nuevos retos,
 
 ## Robocol
 
-- Lideré el diseño eléctrico para un rover marciano: Diseño de planos del sistema eléctrico y de potencia, diseño de sistema de comunicaciones y programación de algoritmos.
-- Participé en competencias nacionales e internacionales de programación y robótica, desarrollando habilidades de trabajo en equipo y resolución de problemas en contextos técnicos exigentes.
-- Programé algoritmos de navegación, reconocimiento de imágenes y lógica de operación, aplicando metodologías de optimización para el desempeño del sistema.
+- Programé algoritmos de comunicación para el rover marciano, usando Python y C++ en distribuciones UNIX para procesar datos de sensores y enviar comandos a actuadores.
+- Apliqué frameworks de visión computacional y algoritmos de navegación autónoma para el cumplimiento de tareas integradas por medio del framework ROS.
+- Participé en competencias internacionales de robótica y Hackatones, resolviendo problemas técnicos (robótica, visión computacional, LLM) bajo presión.
 
-## Chocolatera Automatizada
+## Sistemas Embebidos & Automatización
 
-- Diseñé el sistema electrónico de una chocolatera, incluyendo planos eléctricos elaborados en Fusion 360 y modelado CAD de la estructura mecánica con AutoCAD.
-- Trabajé de manera colaborativa en la integración de electrónica, mecánica y control, aplicando principios de documentación técnica, manufactura y optimización del diseño.
-
-## Coctelera Inteligente
-
-- Participé en el diseño del circuito electrónico y elaboración de planos eléctricos del sistema automatizado para una coctelera.
-- Colaboré en la manufactura y documentación del prototipo, así como en la elaboración de archivos CAD para la estructura del dispositivo.
+- Integré electrónica, software y mecánica en dispositivos automatizados, usando Python y C++ para lógica de control,  por medio de comunicación serial y protocolos I2C.
+- Elaboré manuales de integración y estándares de código (Git), enfocados en replicabilidad y escalabilidad .
 
 # Habilidades
 
 - Lenguajes de Programación: Python, C++, Visual Basic, MATLAB
-- Herramientas: Excel, AutoCAD, ETAP, Fusion360, Simulink, Git, Typhoon HIL, PVsyst, HOMER Pro, QGIS
+- Herramientas: Excel, Git, ROS, Simulink, Typhoon HIL, PVsyst, HOMER Pro, QGIS
 - Idiomas: Inglés (Avanzado C1), Español (Nativo)

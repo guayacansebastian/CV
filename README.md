@@ -106,7 +106,7 @@ locale:
 2. Ejecuta el siguiente comando:
 
 ```bash
-rendercv render cv.yaml
+rendercv render "Sebastian_Guayacan_Mesa_CV.yaml"
 ```
 
 Esto generará un archivo PDF con tu CV en el mismo directorio.
