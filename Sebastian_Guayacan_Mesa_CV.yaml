@@ -547,10 +547,9 @@ cv:
   sections:
   
     Acerca de mí:
-    - Ingeniero Eléctrico y Electrónico con opción en matemática computacional, orientado a la mejora continua, la eficiencia operativa y la optimización de procesos en entornos industriales. Tengo experiencia en análisis de datos, automatización de tareas técnicas y documentación, con dominio de herramientas de ofimática y manejo de bases de datos.
-    - He trabajado con software de simulación eléctrica y herramientas CAD para diseño y revisión de planos. Me destaco por mi capacidad analítica, organización, atención al detalle y disposición para trabajar en equipos interdisciplinarios, apoyando tareas operativas, análisis de indicadores y soporte en procesos de mejora.
-    - Me motiva aportar en ambientes dinámicos donde cada día presenta nuevos retos, integrando conocimientos técnicos con habilidades de comunicación, liderazgo y aprendizaje constante. Tengo especial interés en aplicar mis habilidades en entornos de producción industrial, donde pueda participar activamente en procesos de mejora continua, análisis de desempeño y seguimiento de operaciones.
-
+    - Ingeniero Eléctrico y Electrónico con experiencia en desarrollo de software, automatización de procesos y arquitectura de sistemas. Apasionado por construir soluciones escalables y eficientes, con habilidades comprobadas en Python, C++ y manejo de frameworks como ROS para integración de sistemas complejos.
+    - En roles previos, diseñé pipelines de datos, algoritmos de visión computacional y APIs embebidas, siempre enfocado en optimización y documentación de código. Disfruto colaborar en equipos ágiles, compartir conocimientos (como monitor universitario) y resolver problemas técnicos desafiantes.
+    - Busco aplicar mi experiencia en un entorno dinámico como Truora, donde pueda contribuir al diseño e implementación de software de calidad. 
     Educación:
       - institution: Universidad de los Andes
         area: Ingeniería eléctrica
@@ -628,18 +627,12 @@ cv:
         - "Lideré el diseño eléctrico para un rover marciano: Diseño de planos del sistema eléctrico y de potencia, diseño de sistema de comunicaciones y programación de algoritmos."
         - "Participé en competencias nacionales e internacionales de programación y robótica, desarrollando habilidades de trabajo en equipo y resolución de problemas en contextos técnicos exigentes."
         - "Programé algoritmos de navegación, reconocimiento de imágenes y lógica de operación, aplicando metodologías de optimización para el desempeño del sistema."  
-
-    - name: Chocolatera Automatizada
-      summary: Diseño y desarrollo de un electrodoméstico automatizado
-      highlights:
-          - "Diseñé el sistema electrónico de una chocolatera, incluyendo planos eléctricos elaborados en Fusion 360 y modelado CAD de la estructura mecánica con AutoCAD."
-          - "Trabajé de manera colaborativa en la integración de electrónica, mecánica y control, aplicando principios de documentación técnica, manufactura y optimización del diseño."
-
-    - name: Coctelera Inteligente
-      summary: Diseño funcional y prototipado de un dispositivo mecatrónico
-      highlights:
-          - "Participé en el diseño del circuito electrónico y elaboración de planos eléctricos del sistema automatizado para una coctelera."
-          - "Colaboré en la manufactura y documentación del prototipo, así como en la elaboración de archivos CAD para la estructura del dispositivo."
+    - name: Sistemas Embebidos & Automatización  
+      summary: Diseño e integración de dispositivos IoT (2 proyectos combinados)  
+      highlights:  
+        - Integración de  electrónica, software y mecánica en dispositivos automatizados, usando Python y c++  para lógica de control por medio de comunicación serial y protocolos I2C.  
+        - Elaboré manuales de integración y estándares de código (Git), enfocados en replicabilidad y escalabilidad.  
+        
     Habilidades:
         - label: Lenguajes de Programación
           details: "Python, C++, Visual Basic, MATLAB"
