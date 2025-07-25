@@ -465,15 +465,19 @@
 
 
 #one-col-entry(
-  content: [Ingeniero Eléctrico y Electrónico con opción en matemática computacional, orientado a la mejora continua, la eficiencia operativa y la optimización de procesos en entornos industriales. Tengo experiencia en análisis de datos, automatización de tareas técnicas y documentación, con dominio de herramientas de ofimática y manejo de bases de datos.]
+  content: [Ingeniero Eléctrico y Electrónico con sólidos conocimientos en sistemas industriales, optimización y análisis de datos, orientado a aplicaciones técnicas en el sector energético. Experiencia en simulación de sistemas, modelado dinámico y análisis de desempeño, con capacidad para diseñar y evaluar soluciones técnicas complejas.]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [He trabajado con software de simulación eléctrica y herramientas CAD para diseño y revisión de planos. Me destaco por mi capacidad analítica, organización, atención al detalle y disposición para trabajar en equipos interdisciplinarios, apoyando tareas operativas, análisis de indicadores y soporte en procesos de mejora.]
+  content: [En mis roles previos he aprendido a realizar ddimensionamiento técnico de soluciones, análisis de datos operacionales y soporte técnico especializado para equipos y servicios tecnológicos.]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [Me motiva aportar en ambientes dinámicos donde cada día presenta nuevos retos, integrando conocimientos técnicos con habilidades de comunicación, liderazgo y aprendizaje constante. Tengo especial interés en aplicar mis habilidades en entornos de producción industrial, donde pueda participar activamente en procesos de mejora continua, análisis de desempeño y seguimiento de operaciones.]
+  content: [Dominio de herramientas de simulación \(ETAP, Simulink, HOMER Pro\) y programación \(Python, MATLAB\) para modelado y análisis de sistemas. Capacidad para trabajar en equipos interdisciplinarios, comunicar afectivamente y documentar procesos.]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [Motivado por aplicar mis conocimientos en ingeniería y análisis de datos para el diseño, evaluación y optimización de sistemas, contribuyendo con mi capacidad analítica y enfoque en mejora continua para conocer más sobre el sector Oil & Gas .]
 )
 
 
@@ -506,7 +510,7 @@ Ene 2020 – Abr 2025
     #strong[Universidad de los Andes], Ingeniería electrónica
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Tesis: Modelado dinámico de cultivos en sistemas agrofotovoltaicos, con simulación de generación distribuida y análisis de estabilidad.],[Cursos Relevantes: Sistemas de apoyo a la decisión, estructuras de datos y algoritmos, sistemas de control, aprendizaje y evolución de sistemas, robótica.],)
+    #v(design-highlights-top-margin);#highlights([Tesis: Modelado dinámico de cultivos en sistemas agrofotovoltaicos, con simulación de generación distribuida y análisis de estabilidad.],[Cursos Relevantes: Métodos de análisis numérico, estructuras de datos y algoritmos, sistemas de control, aprendizaje y evolución de sistemas, robótica.],)
   ],
   right-content: [
     Bogotá, Colombia
@@ -570,7 +574,7 @@ Ene 2024 – Jun 2024
     #strong[Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes], Monitor del curso electrónica de potencia
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Asistí en la enseñanza de principios de semiconductores, elementos de sistemas eléctricos y diseño de conversores \(AC\/DC, DC\/DC, DC\/AC\).],[Ayudé a implementar proyectos de simulación en tiempo real \(HIL\) para rectificadores, transformadores tridevanados y control digital con modulación SPWM.],)
+    #v(design-highlights-top-margin);#highlights([Asistí en la enseñanza de principios de semiconductores, elementos de sistemas eléctricos y diseño de conversores.],[Ayudé a implementar proyectos de simulación en tiempo real \(HIL\) con uso de sistemas SCADA en aplicaciones de conversores y transformadores tridevanados. Implementación de control digital con modulación SPWM.],)
   ],
   right-content: [
     Bogotá, Colombia
@@ -585,7 +589,7 @@ Jul 2024 – Dic 2024
     #strong[HERON Agrodrones - Independiente], Desarrollador e integrador de sistemas
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Diseño y automatización del pipeline de análisis para inspección visual de cultivos: Procesamiento de imágenes multiespectrales, algoritmos de cálculo de índices especializados y modelos para detección de anomalías y evaluación de estado de salud.],[Gestión de datos geoespaciales: Arquitectura de procesamiento para imágenes georreferenciadas, integración de herramientas de visión computacional, optimización y frameworks de IA para generar mapas de salud vegetal y recomendaciones.],[Automatización de procesos repetitivos y estandarización de documentación técnica para facilitar toma de decisiones.],)
+    #v(design-highlights-top-margin);#highlights([Diseño y automatización del pipeline de análisis para inspección visual de cultivos: Procesamiento de imágenes multiespectrales, algoritmos de cálculo de índices especializados y desarrollo de modelos para detección de anomalías.],[Gestión de datos geoespaciales: Arquitectura de procesamiento para imágenes georreferenciadas, integración de herramientas de visión computacional, optimización y frameworks de IA para generar mapas de salud vegetal y recomendaciones.],)
   ],
   right-content: [
     Remoto
@@ -611,32 +615,6 @@ Abr 2025 – Jul 2025
   ],
 )
 
-#v(design-entries-vertical-space-between-entries)
-
-#one-col-entry(
-  content: [
-    #strong[Chocolatera Automatizada]
-
-    #v(-design-text-leading)
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Diseño y desarrollo de un electrodoméstico automatizado])], column-gutter: 0cm)
-
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Diseñé el sistema electrónico de una chocolatera, incluyendo planos eléctricos elaborados en Fusion 360 y modelado CAD de la estructura mecánica con AutoCAD.],[Trabajé de manera colaborativa en la integración de electrónica, mecánica y control, aplicando principios de documentación técnica, manufactura y optimización del diseño.],)
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-
-#one-col-entry(
-  content: [
-    #strong[Coctelera Inteligente]
-
-    #v(-design-text-leading)
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Diseño funcional y prototipado de un dispositivo mecatrónico])], column-gutter: 0cm)
-
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Participé en el diseño del circuito electrónico y elaboración de planos eléctricos del sistema automatizado para una coctelera.],[Colaboré en la manufactura y documentación del prototipo, así como en la elaboración de archivos CAD para la estructura del dispositivo.],)
-  ],
-)
-
 
 
 == Habilidades
@@ -647,7 +625,7 @@ Abr 2025 – Jul 2025
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Herramientas:] Excel, AutoCAD, ETAP, Fusion360, Simulink, Git, Typhoon HIL, PVsyst, HOMER Pro, QGIS]
+  content: [#strong[Herramientas:] Excel, AutoCAD, ETAP, Fusion360, Simulink, Git, Typhoon HIL SCADA, PVsyst, HOMER Pro, QGIS]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
