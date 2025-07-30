@@ -9,7 +9,7 @@
 
 # Acerca De Mí
 
-Ingeniero Eléctrico e Ingeniero Electrónico con opción en matemática computacional, interesado en diseño de instalaciones eléctricas para infraestructuras. Experiencia en cálculo y dimensionamiento de equipos eléctricos, diseño de sistemas de potencia y conocimiento  de normativas (RETIE, NTC 2050).
+Ingeniero Eléctrico e Ingeniero Electrónico con opción en matemática computacional, interesado en diseño de instalaciones eléctricas para electro-movilidad. Experiencia en cálculo y dimensionamiento de equipos eléctricos, diseño de sistemas de potencia y conocimiento  de normativas (RETIE, NTC 2050).
 
 Apasionado por proyectos de infraestructura eléctrica en sectores industriales, de transporte y energías renovables, particularmente fotovoltaica. Capacidad para trabajar en equipos interdisciplinares y adaptarme a nuevos entornos, con habilidades en herramientas de simulación (ETAP, PVsyst, HOMER pro) y diseño (AutoCAD).
 
@@ -22,14 +22,14 @@ Busco contribuir con mi capacidad técnica, enfoque en detalles de diseño y dis
 - Ene 2020 – Abr 2025
 - Bogotá, Colombia
 - Tesis: Análisis técnico-económico de microrredes agrofotovoltaicas en ZNI, incluyendo estudios de flujo de potencia y dimensionamiento de protecciones.
-- Cursos Relevantes: Elementos de sistemas eléctricos, sistemas  eléctricos industriales, diseño de subestaciones eléctricas, electrónica de potencia, optimización 
+- Cursos Relevantes: Electrónica de potencia, sistemas  eléctricos industriales, elementos de sistemas eléctricos, diseño de subestaciones eléctricas, optimización 
 
 ## Universidad de los Andes, BS in Ingeniería electrónica
 
 - Ene 2020 – Abr 2025
 - Bogotá, Colombia
 - Tesis: Modelado dinámico de cultivos en sistemas agrofotovoltaicos, con simulación de generación distribuida y análisis de estabilidad.
-- Cursos Relevantes: Sistemas de apoyo a la decisión, estructuras de datos y algoritmos, sistemas de control, aprendizaje y evolución de sistemas, robótica.
+- Cursos Relevantes: Sistemas de control, sistemas de apoyo a la decisión, estructuras de datos y algoritmos, aprendizaje y evolución de sistemas, robótica.
 
 # Experiencia
 

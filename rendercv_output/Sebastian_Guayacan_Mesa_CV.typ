@@ -465,7 +465,7 @@
 
 
 #one-col-entry(
-  content: [Ingeniero Eléctrico e Ingeniero Electrónico con opción en matemática computacional, interesado en diseño de instalaciones eléctricas para infraestructuras. Experiencia en cálculo y dimensionamiento de equipos eléctricos, diseño de sistemas de potencia y conocimiento  de normativas \(RETIE, NTC 2050\).]
+  content: [Ingeniero Eléctrico e Ingeniero Electrónico con opción en matemática computacional, interesado en diseño de instalaciones eléctricas para electro-movilidad. Experiencia en cálculo y dimensionamiento de equipos eléctricos, diseño de sistemas de potencia y conocimiento  de normativas \(RETIE, NTC 2050\).]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -488,7 +488,7 @@
     #strong[Universidad de los Andes], Ingeniería eléctrica
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Tesis: Análisis técnico-económico de microrredes agrofotovoltaicas en ZNI, incluyendo estudios de flujo de potencia y dimensionamiento de protecciones.],[Cursos Relevantes: Elementos de sistemas eléctricos, sistemas  eléctricos industriales, diseño de subestaciones eléctricas, electrónica de potencia, optimización ],)
+    #v(design-highlights-top-margin);#highlights([Tesis: Análisis técnico-económico de microrredes agrofotovoltaicas en ZNI, incluyendo estudios de flujo de potencia y dimensionamiento de protecciones.],[Cursos Relevantes: Electrónica de potencia, sistemas  eléctricos industriales, elementos de sistemas eléctricos, diseño de subestaciones eléctricas, optimización ],)
   ],
   right-content: [
     Bogotá, Colombia
@@ -506,7 +506,7 @@ Ene 2020 – Abr 2025
     #strong[Universidad de los Andes], Ingeniería electrónica
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Tesis: Modelado dinámico de cultivos en sistemas agrofotovoltaicos, con simulación de generación distribuida y análisis de estabilidad.],[Cursos Relevantes: Sistemas de apoyo a la decisión, estructuras de datos y algoritmos, sistemas de control, aprendizaje y evolución de sistemas, robótica.],)
+    #v(design-highlights-top-margin);#highlights([Tesis: Modelado dinámico de cultivos en sistemas agrofotovoltaicos, con simulación de generación distribuida y análisis de estabilidad.],[Cursos Relevantes: Sistemas de control, sistemas de apoyo a la decisión, estructuras de datos y algoritmos, aprendizaje y evolución de sistemas, robótica.],)
   ],
   right-content: [
     Bogotá, Colombia
