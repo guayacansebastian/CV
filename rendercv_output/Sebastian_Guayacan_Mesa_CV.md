@@ -77,6 +77,16 @@ Motivado por aplicar mis conocimientos en ingeniería y análisis de datos para 
 - Participé en competencias nacionales e internacionales de programación y robótica, desarrollando habilidades de trabajo en equipo y resolución de problemas en contextos técnicos exigentes.
 - Programé algoritmos de navegación, reconocimiento de imágenes y lógica de operación, aplicando metodologías de optimización para el desempeño del sistema.
 
+## Sistemas Embebidos & Automatización
+
+- Diseñé el sistema electrónico de una electrodomésticos IoT, incluyendo planos eléctricos elaborado y modelado CAD de la estructura mecánica.
+- Trabajé de manera colaborativa en la integración de electrónica, mecánica y control, aplicando principios de documentación técnica, manufactura y optimización del diseño.
+
+## Microrredes: Emulación en Tiempo Real de un Sistema HIL Conectado a la Red
+
+- Desarrollé un modelo de microrred con generación distribuida para emulación en tiempo real.
+- Implementé un sistema de control para gestionar la operación de la microrred (Controlador Woodward easYgen-3500X y  módulo EPC), incluyendo la coordinación de protecciones (Relé SEL-751) y análisis de estabilidad (sistema SCADA).
+
 # Habilidades
 
 - Lenguajes de Programación: Python, C++, Visual Basic, MATLAB

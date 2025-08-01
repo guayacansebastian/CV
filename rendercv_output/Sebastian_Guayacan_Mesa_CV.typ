@@ -615,6 +615,32 @@ Abr 2025 – Jul 2025
   ],
 )
 
+#v(design-entries-vertical-space-between-entries)
+
+#one-col-entry(
+  content: [
+    #strong[Sistemas Embebidos & Automatización]
+
+    #v(-design-text-leading)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Diseño e integración de dispositivos IoT \(2 proyectos\)])], column-gutter: 0cm)
+
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Diseñé el sistema electrónico de una electrodomésticos IoT, incluyendo planos eléctricos elaborado y modelado CAD de la estructura mecánica.],[Trabajé de manera colaborativa en la integración de electrónica, mecánica y control, aplicando principios de documentación técnica, manufactura y optimización del diseño.],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+
+#one-col-entry(
+  content: [
+    #strong[Microrredes: Emulación en Tiempo Real de un Sistema HIL Conectado a la Red]
+
+    #v(-design-text-leading)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Evaluación de comportamiento de un sistema de microrred conectado a la red en distintos escenarios operativos.])], column-gutter: 0cm)
+
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Desarrollé un modelo de microrred con generación distribuida para emulación en tiempo real.],[Implementé un sistema de control para gestionar la operación de la microrred \(Controlador Woodward easYgen-3500X y  módulo EPC\), incluyendo la coordinación de protecciones \(Relé SEL-751\) y análisis de estabilidad \(sistema SCADA\).],)
+  ],
+)
+
 
 
 == Habilidades
