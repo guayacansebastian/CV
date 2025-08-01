@@ -9,11 +9,11 @@
 
 # Acerca De Mí
 
-Ingeniero Eléctrico e Ingeniero Electrónico con opción en matemática computacional, interesado en diseño de instalaciones eléctricas para electro-movilidad. Experiencia en cálculo y dimensionamiento de equipos eléctricos, diseño de sistemas de potencia y conocimiento  de normativas (RETIE, NTC 2050).
+Ingeniero Eléctrico e Ingeniero Electrónico con opción en matemática computacional, apasionado por el diseño y análisis de sistemas eléctricos industriales y de generación de energía. Experiencia en cálculo y dimensionamiento de equipos eléctricos, coordinación de protecciones, diseño de sistemas de potencia y conocimiento  de normativas (RETIE, NTC 2050).
 
-Apasionado por proyectos de infraestructura eléctrica en sectores industriales, de transporte y energías renovables, particularmente fotovoltaica. Capacidad para trabajar en equipos interdisciplinares y adaptarme a nuevos entornos, con habilidades en herramientas de simulación (ETAP, PVsyst, HOMER pro) y diseño (AutoCAD).
+En roles previos, brindé soporte técnico-comercial para portafolios de tecnología, realizando dimensionamiento de soluciones, demostraciones técnicas y análisis de necesidades para clientes en LATAM. Interesado en la pre-venta técnica, con habilidades para traducir requerimientos complejos en propuestas de valor. Manejo programas de simulación y diseño  de sistemas eléctricos como ETAP, PVsyst, HOMER Pro, Typhoon HIL y AutoCAD.
 
-Busco contribuir con mi capacidad técnica, enfoque en detalles de diseño y disposición para aprender del equipo. Destaco por mi habilidad para dar soporte técnico en proyectos ingenieriles y trabajar bajo metodologías estructuradas.
+Busco contribuir con mi capacidad técnica, enfoque en detalles de diseño y disposición para aprender del equipo. Destaco por mi habilidad de análisis  y brindar soluciones en proyectos ingenieriles; trabajar en equipo y disposición para aprender.
 
 # Educación
 
@@ -21,8 +21,8 @@ Busco contribuir con mi capacidad técnica, enfoque en detalles de diseño y dis
 
 - Ene 2020 – Abr 2025
 - Bogotá, Colombia
-- Tesis: Análisis técnico-económico de microrredes agrofotovoltaicas en ZNI, incluyendo estudios de flujo de potencia y dimensionamiento de protecciones.
-- Cursos Relevantes: Electrónica de potencia, sistemas  eléctricos industriales, elementos de sistemas eléctricos, diseño de subestaciones eléctricas, optimización 
+- Tesis: Análisis técnico-económico de microrredes agrofotovoltaicas en ZNI, incluyendo estudios de flujo de potencia, dimensionamiento de protecciones y estabilidad.
+- Cursos Relevantes: Electrónica de potencia, sistemas  eléctricos industriales, microrredes, elementos de sistemas eléctricos, diseño de subestaciones eléctricas, optimización 
 
 ## Universidad de los Andes, BS in Ingeniería electrónica
 
@@ -50,15 +50,15 @@ Busco contribuir con mi capacidad técnica, enfoque en detalles de diseño y dis
 
 - Ene 2024 – Jun 2024
 - Bogotá, Colombia
-- Asistí en la enseñanza de principios económicos de sistemas de potencia, incluyendo despacho económico, flujo óptimo de potencia (OPF), y casación de energía desde la perspectiva de actores del mercado eléctrico
-- Organicé y dirigí una simulación interactiva de mercado eléctrico, actuando como operador de red para gestionar ofertas de energía en sistemas uninodales y multinodales, ejecutar despacho económico y OPF
+- Asistí en la enseñanza de principios económicos de sistemas de potencia, incluyendo despacho económico, flujo óptimo de potencia (OPF), y casación de energía desde la perspectiva de actores del mercado eléctrico.
+- Organicé y dirigí una simulación interactiva de mercado eléctrico, actuando como operador de red para gestionar ofertas de energía en sistemas uninodales y multinodales, ejecutar despacho económico y OPF.
 
 ## Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes, Monitor del curso electrónica de potencia
 
 - Jul 2024 – Dic 2024
 - Bogotá, Colombia
 - Asistí en la enseñanza de principios de semiconductores, elementos de sistemas eléctricos y diseño de conversores (AC/DC, DC/DC, DC/AC).
-- Ayudé a implementar proyectos de simulación en tiempo real (HIL) para rectificadores, transformadores tridevanados y control digital con modulación SPWM.
+- Ayudé a implementar proyectos de simulación en tiempo real (HIL) para rectificadores, transformadores tridevanados y control digital con modulación SPWM en aplicaciones industriales de BT/MT.
 
 ## HERON Agrodrones - Independiente, Desarrollador e integrador de sistemas
 
@@ -78,8 +78,13 @@ Busco contribuir con mi capacidad técnica, enfoque en detalles de diseño y dis
 
 ## Sistemas Embebidos & Automatización
 
-- Diseñé el sistema electrónico de una electrodomésticos IoT, incluyendo planos eléctricos elaborados en y modelado CAD de la estructura mecánica.
+- Diseñé el sistema electrónico de una electrodomésticos IoT, incluyendo planos eléctricos elaborado y modelado CAD de la estructura mecánica.
 - Trabajé de manera colaborativa en la integración de electrónica, mecánica y control, aplicando principios de documentación técnica, manufactura y optimización del diseño.
+
+## Microrredes: Emulación en Tiempo Real de un Sistema HIL Conectado a la Red
+
+- Desarrollé un modelo de microrred con generación distribuida para emulación en tiempo real.
+- Implementé un sistema de control para gestionar la operación de la microrred (Controlador Woodward easYgen-3500X y  módulo EPC), incluyendo la coordinación de protecciones (Relé SEL-751) y análisis de estabilidad (sistema SCADA).
 
 # Habilidades
 
