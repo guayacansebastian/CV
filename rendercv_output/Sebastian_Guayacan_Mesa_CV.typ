@@ -465,15 +465,15 @@
 
 
 #one-col-entry(
-  content: [Ingeniero Eléctrico y Electrónico con experiencia en desarrollo de software, automatización de procesos y arquitectura de sistemas. Apasionado por construir soluciones escalables y eficientes, con habilidades comprobadas en Python, C+ + y manejo de frameworks como ROS para integración de sistemas complejos.]
+  content: [Ingeniero Eléctrico y Electrónico con experiencia en desarrollo de software, automatización de procesos y arquitectura de sistemas. Apasionado por construir soluciones escalables y eficientes, con habilidades de programación e integración de Hardware y Software por medio de frameworks como ROS.]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [En roles previos, diseñé pipelines de datos, algoritmos de visión computacional y APIs embebidas, siempre enfocado en optimización y documentación de código. Disfruto colaborar en equipos ágiles, compartir conocimientos \(como monitor universitario\) y resolver problemas técnicos desafiantes.]
+  content: [En roles previos, diseñé pipelines de datos, algoritmos de visión computacional y monitoreo de sistemas por medio de SCADAs, siempre enfocado en optimización y una buena documentación de código y hardware. Disfruto colaborar en equipos ágiles, compartir conocimientos \(como monitor universitario\) y resolver problemas técnicos desafiantes.]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [Busco aplicar mi experiencia en un entorno dinámico, donde pueda contribuir al diseño e implementación de software de calidad.]
+  content: [Busco aplicar mi experiencia en un entorno dinámico, donde pueda contribuir a proyectos ingenieriles en sistemas complejos.]
 )
 
 
@@ -525,7 +525,7 @@ Ene 2020 – Abr 2025
     #strong[IBM], Practicante de portafolio de sostenibilidad
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Brindé soporte técnico especializado al equipo de ventas digitales de productos de sostenibilidad en 5 países LATAM, dimensionamiento soluciones de gestión y desempeño de activos empresariales, mantenimiento predictivo con IA y análisis de huella de carbono con estándares ESG.],)
+    #v(design-highlights-top-margin);#highlights([Brindé soporte técnico especializado al equipo de ventas digitales de productos de sostenibilidad en 5 países LATAM, dimensionamiento soluciones de gestión y desempeño de activos empresariales \(OMS, ERP, APM, Visual inspection\), mantenimiento predictivo con IA y análisis de huella de carbono con estándares ESG.],)
   ],
   right-content: [
     Híbrido
@@ -567,15 +567,15 @@ Ene 2024 – Jun 2024
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[Departamento Ingeniería de Sistems y Computación, Universidad de los Andes], Monitor del curso Introducción a la Programación
+    #strong[Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes], Monitor del curso electrónica de potencia
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Asistí en la enseñanza de fundamentos de programación a 20+ estudiantes fomentando buenas prácticas de programación y resolviendo dudas en proyectos de programación y manejo de datos.],)
+    #v(design-highlights-top-margin);#highlights([Asistí en la enseñanza de principios de semiconductores, elementos de sistemas eléctricos y diseño de conversores \(AC\/DC, DC\/DC, DC\/AC\).],[Ayudé a implementar proyectos de simulación en tiempo real \(HIL\) para rectificadores, transformadores tridevanados y control digital con modulación SPWM en aplicaciones industriales de BT\/MT \(SCADA Typhoon HIL\).],)
   ],
   right-content: [
     Bogotá, Colombia
 
-Ene 2023 – Jun 2023
+Jul 2024 – Dic 2024
   ],
 )
 
@@ -607,7 +607,7 @@ Abr 2025 – Jul 2025
     #v(-design-text-leading)
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Líder de equipo de robótica competitiva y divulgación STEM])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Programé algoritmos de comunicación para un rover marciano, usando Python y C++ en distribuciones UNIX para procesar datos de sensores y enviar comandos a actuadores.],[Apliqué frameworks de visión computacional y algoritmos de navegación autónoma para el cumplimiento de tareas integradas por medio del framework ROS.],[Participé en competencias internacionales de robótica y Hackatones, resolviendo problemas técnicos \(robótica, visión computacional, LLM\) bajo presión.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Programé algoritmos de comunicación para un rover marciano, usando Python y C++ en distribuciones UNIX para procesar datos de sensores y enviar comandos a actuadores. Configuración de sistemas de comunicaciones remotas y asignación de direcciones IP a  los equipos del robot.],[Apliqué frameworks de visión computacional y algoritmos de navegación autónoma para el cumplimiento de tareas integradas por medio del framework ROS.],[Participé en competencias internacionales de robótica y Hackatones, resolviendo problemas técnicos \(robótica, visión computacional, LLM\) bajo presión.],)
   ],
 )
 
@@ -624,6 +624,19 @@ Abr 2025 – Jul 2025
   ],
 )
 
+#v(design-entries-vertical-space-between-entries)
+
+#one-col-entry(
+  content: [
+    #strong[Microrredes: Emulación en Tiempo Real de un Sistema HIL Conectado a la Red]
+
+    #v(-design-text-leading)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Evaluación de comportamiento de un sistema de microrred conectado a la red en distintos escenarios operativos.])], column-gutter: 0cm)
+
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Desarrollé un modelo de microrred con generación distribuida para emulación en tiempo real.],[Implementé un sistema de control para gestionar la operación de la microrred \(Controlador Woodward easYgen-3500X y  módulo EPC\), incluyendo la coordinación de protecciones \(Relé SEL-751\) y análisis de estabilidad.],)
+  ],
+)
+
 
 
 == Habilidades
@@ -634,7 +647,7 @@ Abr 2025 – Jul 2025
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Herramientas:] Excel, Git, ROS, Simulink, Fusion360, ETAP,  Typhoon HIL, PVsyst, HOMER Pro, QGIS]
+  content: [#strong[Herramientas:] Excel, Git, ROS, Simulink, Fusion360, ETAP,  Typhoon HIL - SCADA, PVsyst, HOMER Pro, QGIS]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
