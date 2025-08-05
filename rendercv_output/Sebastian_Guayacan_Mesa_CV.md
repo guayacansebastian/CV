@@ -9,11 +9,11 @@
 
 # Acerca De Mí
 
-Ingeniero Eléctrico e Ingeniero Electrónico con opción en Matemática Computacional, especializado en diseño, análisis y documentación de sistemas eléctricos industriales y de generación de energía. Con experiencia en cálculo y dimensionamiento de equipos eléctricos, coordinación de protecciones, diseño de sistemas de potencia y conocimiento de normativas (RETIE, NTC 2050).
+Ingeniero Eléctrico y Electrónico con opción en matemática computacional, hábil para el desarrollo de soluciones de automatización y analítica de datos. Experiencia en implementación de pipelines de datos, APIs y sistemas embebidos usando Python. También tengo experiencia en diseño de sistemas eléctricos industriales y de generación de energía, dimensionamiento de equipos eléctricos, coordinación de protecciones y diseño de sistemas de potencia.
 
-En roles anteriores he brindado soporte técnico-comercial para portafolios tecnológicos, realizando dimensionamiento de soluciones, demostraciones técnicas y análisis de necesidades para clientes en LATAM. Manejo avanzado de Office 365 y programas de simulación para sistemas eléctricos como ETAP, PVsyst, HOMER Pro y Typhoon HIL.
+En proyectos recientes he diseñado arquitecturas para procesamiento de datos geoespaciales, automatización de procesos y documentación técnica para estándares de calidad.
 
-Busco contribuir con mi capacidad técnica, atención al detalle y disposición para el aprendizaje continuo. Me caracterizo por mi capacidad analítica para brindar soluciones en proyectos de ingeniería, experiencia en trabajo con equipos multidisciplinarios y gran adaptabilidad.
+Busco aplicar mis habilidades en programación y análisis de procesos para impulsar la digitalización en el sector eléctrico.
 
 # Educación
 
@@ -37,8 +37,7 @@ Busco contribuir con mi capacidad técnica, atención al detalle y disposición 
 
 - Jul 2023 – Ene 2024
 - Híbrido
-- Soporte técnico y comercial para clientes industriales en 5 países LATAM
-- Dimensionamiento de soluciones de gestión y desempeño de activos empresariales (ERP, APM, OMS), mantenimiento predictivo con IA y análisis de huella de carbono con estándares ESG.
+- Brindé soporte técnico  al equipo de ventas digitales de productos de sostenibilidad en 5 países LATAM, dimensionamiento soluciones de gestión y desempeño de activos empresariales, mantenimiento predictivo con IA y análisis de huella de carbono con estándares ESG.
 
 ## IBM - Digital Sales, Practicante de portafolio de datos e inteligencia artificial
 
@@ -50,7 +49,7 @@ Busco contribuir con mi capacidad técnica, atención al detalle y disposición 
 
 - Ene 2024 – Dic 2024
 - Bogotá, Colombia
-- Enseñanza asistida de conceptos técnicos avanzados: desde principios económicos de mercados eléctricos (despacho económico, OPF) hasta diseño de conversores de potencia y control digital.
+- Enseñanza asistida de conceptos técnicos avanzados: desde principios económicos de mercados eléctricos (despacho económico, OPF) hasta diseño de conversores de potencia (AC/DC, DC/DC, DC/AC)
 - Lideré simulaciones interactivas de mercado eléctrico, actuando como operador de red para gestionar ofertas en sistemas uninodales/multinodales
 - Implementación de proyectos con simulación en tiempo real (HIL): rectificadores, transformadores tridevanados y control digital con modulación SPWM
 - Desarrollo de habilidades pedagógicas para explicar conceptos complejos y documentar procesos técnicos
@@ -65,10 +64,11 @@ Busco contribuir con mi capacidad técnica, atención al detalle y disposición 
 
 # Proyectos
 
-## Robocol - Proyectos de Robótica e IoT (2019-2023)
+## Robocol - Proyectos de Robótica e IoT (2019-2025)
 
-- Diseño e implementación (potencia, electrónica y software) de sistemas robóticos y dispositivos IoT usando Python y C++
+- Diseño e implementación (Hardware y software) de sistemas robóticos y dispositivos IoT usando Python y C++
 - Integración de electrónica, software y mecánica con protocolos de comunicación industrial
+- Programación de algoritmos para navegación autónoma, visión computacional y control de actuadores
 - Documentación técnica completa para replicabilidad, cumpliendo estándares de calidad
 
 ## CODEFEST AD ASTRA 2023
@@ -82,6 +82,6 @@ Busco contribuir con mi capacidad técnica, atención al detalle y disposición 
 
 # Habilidades
 
-- Lenguajes de Programación: Python, GO, SQL, MATLAB, C++, Visual Basic
-- Herramientas: Ofice 365, ETAP, PVsyst, HOMER Pro, Simulink, Git, Typhoon HIL, AutoCAD, Visual Studio
+- Lenguajes de Programación: Python, GO, SQL, MATLAB,C++, Visual Basic
+- Herramientas: Excel, PVsyst, ETAP, HOMER Pro, Simulink, Git, Typhoon HIL, AutoCAD, Visual Studio
 - Idiomas: Inglés (Avanzado C1), Español (Nativo)
