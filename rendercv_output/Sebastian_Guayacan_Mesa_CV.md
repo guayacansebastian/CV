@@ -9,11 +9,11 @@
 
 # Acerca De Mí
 
-Ingeniero Eléctrico e Ingeniero Electrónico con opción en matemática computacional, apasionado por el diseño y análisis de sistemas eléctricos industriales y de generación de energía. Experiencia en cálculo y dimensionamiento de equipos eléctricos, coordinación de protecciones, diseño de sistemas de potencia y conocimiento  de normativas (RETIE, NTC 2050).
+Ingeniero Eléctrico y Electrónico con opción en matemática computacional, hábil para el desarrollo de soluciones de automatización y analítica de datos. Experiencia en implementación de pipelines de datos, APIs y sistemas embebidos usando Python. También tengo experiencia en diseño de sistemas eléctricos industriales y de generación de energía, dimensionamiento de equipos eléctricos, coordinación de protecciones y diseño de sistemas de potencia.
 
-En roles previos, brindé soporte técnico-comercial para portafolios de tecnología, realizando dimensionamiento de soluciones, demostraciones técnicas y análisis de necesidades para clientes en LATAM. Interesado en la pre-venta técnica, con habilidades para traducir requerimientos complejos en propuestas de valor. Manejo programas de simulación y diseño  de sistemas eléctricos como ETAP, PVsyst, HOMER Pro, Typhoon HIL y AutoCAD.
+En proyectos recientes he diseñado arquitecturas para procesamiento de datos geoespaciales, automatización de procesos y documentación técnica para estándares de calidad.
 
-Busco contribuir con mi capacidad técnica, enfoque en detalles de diseño y disposición para aprender del equipo. Destaco por mi habilidad de análisis  y brindar soluciones en proyectos ingenieriles; trabajar en equipo y disposición para aprender.
+Busco aplicar mis habilidades en programación y análisis de procesos para impulsar la digitalización en el sector eléctrico.
 
 # Educación
 
@@ -29,65 +29,59 @@ Busco contribuir con mi capacidad técnica, enfoque en detalles de diseño y dis
 - Ene 2020 – Abr 2025
 - Bogotá, Colombia
 - Tesis: Modelado dinámico de cultivos en sistemas agrofotovoltaicos, con simulación de generación distribuida y análisis de estabilidad.
-- Cursos Relevantes: Sistemas de control, sistemas de apoyo a la decisión, estructuras de datos y algoritmos, aprendizaje y evolución de sistemas, robótica.
+- Cursos Relevantes: Estructuras de datos y algoritmos, aprendizaje y evolución de sistemas, sistemas de control, sistemas de apoyo a la decisión,  robótica.
 
 # Experiencia
 
-## IBM, Practicante de portafolio de sostenibilidad
+## IBM - Digital Sales, Practicante de portafolio de sostenibilidad
 
 - Jul 2023 – Ene 2024
 - Híbrido
-- Brindé soporte técnico especializado al equipo de ventas digitales de productos de sostenibilidad en 5 países LATAM, dimensionamiento soluciones de gestión y desempeño de activos empresariales, mantenimiento predictivo con IA y análisis de huella de carbono con estándares ESG.
+- Brindé soporte técnico  al equipo de ventas digitales de productos de sostenibilidad en 5 países LATAM, dimensionamiento soluciones de gestión y desempeño de activos empresariales, mantenimiento predictivo con IA y análisis de huella de carbono con estándares ESG.
 
-## IBM, Practicante de portafolio de datos e inteligencia artificial
+## IBM - Digital Sales, Practicante de portafolio de datos e inteligencia artificial
 
 - Ene 2024 – Jun 2024
 - Híbrido
-- Colaboré con el equipo de ventas digitales de productos de software de Data & AI para 9 países LATAM, brindando soporte técnico y asistencia en labores operativas.
-- Realicé dimensionamiento técnico y demostración de soluciones de IA, análisis de datos, automatización de procesos y asistentes virtuales.
+- Dimensionamiento técnico y demostraciones de soluciones de manejo de datos, IA y automatización de procesos (RPA) para 9 países LATAM
 
-## Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes, Monitor del curso economía de sistemas de potencia
+## Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes, Monitor de cursos (Economía de Sistemas de Potencia y Electrónica de Potencia)
 
-- Ene 2024 – Jun 2024
+- Ene 2024 – Dic 2024
 - Bogotá, Colombia
-- Asistí en la enseñanza de principios económicos de sistemas de potencia, incluyendo despacho económico, flujo óptimo de potencia (OPF), y casación de energía desde la perspectiva de actores del mercado eléctrico.
-- Organicé y dirigí una simulación interactiva de mercado eléctrico, actuando como operador de red para gestionar ofertas de energía en sistemas uninodales y multinodales, ejecutar despacho económico y OPF.
-
-## Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes, Monitor del curso electrónica de potencia
-
-- Jul 2024 – Dic 2024
-- Bogotá, Colombia
-- Asistí en la enseñanza de principios de semiconductores, elementos de sistemas eléctricos y diseño de conversores (AC/DC, DC/DC, DC/AC).
-- Ayudé a implementar proyectos de simulación en tiempo real (HIL) para rectificadores, transformadores tridevanados y control digital con modulación SPWM en aplicaciones industriales de BT/MT.
+- Enseñanza asistida de conceptos técnicos avanzados: desde principios económicos de mercados eléctricos (despacho económico, OPF) hasta diseño de conversores de potencia (AC/DC, DC/DC, DC/AC)
+- Lideré simulaciones interactivas de mercado eléctrico, actuando como operador de red para gestionar ofertas en sistemas uninodales/multinodales
+- Implementación de proyectos con simulación en tiempo real (HIL): rectificadores, transformadores tridevanados y control digital con modulación SPWM
+- Desarrollo de habilidades pedagógicas para explicar conceptos complejos y documentar procesos técnicos
 
 ## HERON Agrodrones - Independiente, Desarrollador e integrador de sistemas
 
 - Abr 2025 – Jul 2025
 - Remoto
-- Diseño y automatización del pipeline de análisis para inspección visual de cultivos: Procesamiento de imágenes multiespectrales, algoritmos de cálculo de índices especializados y modelos para detección de anomalías y evaluación de estado de salud.
-- Gestión de datos geoespaciales: Arquitectura de procesamiento para imágenes georreferenciadas, integración de herramientas de visión computacional, optimización y frameworks de IA para generar mapas de salud vegetal y recomendaciones.
-- Automatización de procesos repetitivos y estandarización de documentación técnica para facilitar toma de decisiones.
+- Diseñé pipeline de procesamiento para imágenes multiespectrales usando Python, implementando algoritmos de visión computacional para detección de anomalías
+- Automatización de procesos y documentación técnica para estandarizar operaciones
+- Arquitectura de sistema para gestión de datos geoespaciales con integración de herramientas de IA
 
 # Proyectos
 
-## Robocol
+## Robocol - Proyectos de Robótica e IoT (2019-2025)
 
-- Lideré el diseño eléctrico para un rover marciano: Diseño de planos del sistema eléctrico y de potencia, diseño de sistema de comunicaciones y programación de algoritmos.
-- Participé en competencias nacionales e internacionales de programación y robótica, desarrollando habilidades de trabajo en equipo y resolución de problemas en contextos técnicos exigentes.
-- Programé algoritmos de navegación, reconocimiento de imágenes y lógica de operación, aplicando metodologías de optimización para el desempeño del sistema.
+- Diseño e implementación (Hardware y software) de sistemas robóticos y dispositivos IoT usando Python y C++
+- Integración de electrónica, software y mecánica con protocolos de comunicación industrial
+- Programación de algoritmos para navegación autónoma, visión computacional y control de actuadores
+- Documentación técnica completa para replicabilidad, cumpliendo estándares de calidad
 
-## Sistemas Embebidos & Automatización
+## CODEFEST AD ASTRA 2023
 
-- Diseñé el sistema electrónico de una electrodomésticos IoT, incluyendo planos eléctricos elaborado y modelado CAD de la estructura mecánica.
-- Trabajé de manera colaborativa en la integración de electrónica, mecánica y control, aplicando principios de documentación técnica, manufactura y optimización del diseño.
+- Desarrollo de algoritmos para análisis de imágenes aéreas y detección de anomalías con Python
 
-## Microrredes: Emulación en Tiempo Real de un Sistema HIL Conectado a la Red
+## Modelado de Microrredes
 
-- Desarrollé un modelo de microrred con generación distribuida para emulación en tiempo real.
-- Implementé un sistema de control para gestionar la operación de la microrred (Controlador Woodward easYgen-3500X y  módulo EPC), incluyendo la coordinación de protecciones (Relé SEL-751) y análisis de estabilidad (sistema SCADA).
+- Modelado y simulación de microrred con generación distribuida usando Python y herramientas de SCADA con Hardware-in-the-Loop (HIL)
+- Implementación de sistema de control automatizado con coordinación de protecciones, operación de generadores y análisis de estabilidad
 
 # Habilidades
 
-- Lenguajes de Programación: Python, C++, Visual Basic, MATLAB
-- Herramientas: Excel, PVsyst, ETAP, HOMER Pro, Simulink, Git, Typhoon HIL, AutoCAD, Fusion360, QGIS
+- Lenguajes de Programación: Python, GO, SQL, MATLAB,C++, Visual Basic
+- Herramientas: Excel, PVsyst, ETAP, HOMER Pro, Simulink, Git, Typhoon HIL, AutoCAD, Visual Studio
 - Idiomas: Inglés (Avanzado C1), Español (Nativo)
