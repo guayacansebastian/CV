@@ -9,11 +9,11 @@
 
 # Acerca De Mí
 
-Ingeniero Eléctrico y Electrónico con experiencia en desarrollo de software, automatización de procesos y arquitectura de sistemas. Apasionado por construir soluciones escalables y eficientes, con habilidades de programación e integración de Hardware y Software por medio de frameworks como ROS.
+Ingeniero Eléctrico y Electrónico con experiencia en desarrollo de software, automatización de procesos y arquitectura de sistemas. Apasionado por construir soluciones escalables y eficientes, con habilidades de programación y conocimiento en frameworks, librerías y herramientas de IA.
 
-En roles previos, diseñé pipelines de datos, algoritmos de visión computacional y monitoreo de sistemas por medio de SCADAs, siempre enfocado en optimización y una buena documentación de código y hardware. Disfruto colaborar en equipos ágiles, compartir conocimientos (como monitor universitario) y resolver problemas técnicos desafiantes.
+En roles previos, diseñé pipelines de datos, algoritmos de visión computacional y APIs embebidas, siempre enfocado en optimización y documentación de código. Disfruto colaborar en equipos ágiles, compartir conocimientos (como monitor universitario) y resolver problemas técnicos desafiantes.
 
-Busco aplicar mi experiencia en un entorno dinámico, donde pueda contribuir a proyectos ingenieriles en sistemas complejos.
+Busco aplicar mi experiencia en un entorno dinámico, donde pueda contribuir al diseño e implementación de software de calidad y aprender de forma continua.
 
 # Educación
 
@@ -44,7 +44,7 @@ Busco aplicar mi experiencia en un entorno dinámico, donde pueda contribuir a p
 - Ene 2024 – Jun 2024
 - Híbrido
 - Colaboré con el equipo de ventas digitales de productos de software de Data & AI para 9 países LATAM, brindando soporte técnico y asistencia en labores operativas.
-- Realicé dimensionamiento técnico y demostración de soluciones de IA, análisis de datos, automatización de procesos y asistentes virtuales.
+- Realicé dimensionamiento técnico y demostración de soluciones de IA, análisis de datos, automatización de procesos (RPA) y asistentes virtuales.
 
 ## Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes, Monitor del curso economía de sistemas de potencia
 
@@ -52,13 +52,6 @@ Busco aplicar mi experiencia en un entorno dinámico, donde pueda contribuir a p
 - Bogotá, Colombia
 - Lideré una simulación interactiva de mercado eléctrico para 30+ estudiantes, explicando conceptos complejos (despacho económico, flujo óptimo).
 - Actué como operador de red, interpretando necesidades de actores del mercado y traduciéndolas a configuraciones técnicas en sistemas uninodales/multinodales.
-
-## Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes, Monitor del curso electrónica de potencia
-
-- Jul 2024 – Dic 2024
-- Bogotá, Colombia
-- Asistí en la enseñanza de principios de semiconductores, elementos de sistemas eléctricos y diseño de conversores (AC/DC, DC/DC, DC/AC).
-- Ayudé a implementar proyectos de simulación en tiempo real (HIL) para rectificadores, transformadores tridevanados y control digital con modulación SPWM en aplicaciones industriales de BT/MT (SCADA Typhoon HIL).
 
 ## HERON Agrodrones - Independiente, Desarrollador e integrador de sistemas
 
@@ -81,13 +74,13 @@ Busco aplicar mi experiencia en un entorno dinámico, donde pueda contribuir a p
 - Integré electrónica, software y mecánica en dispositivos automatizados, usando Python y C++ para lógica de control, haciendo uso de varios protocolos de comunicación.
 - Elaboré manuales de integración y estandarización de código (Git), enfocados en replicabilidad y escalabilidad
 
-## Microrredes: Emulación en Tiempo Real de un Sistema HIL Conectado a la Red
+## CODEFEST AD ASTRA 2023
 
-- Desarrollé un modelo de microrred con generación distribuida para emulación en tiempo real.
-- Implementé un sistema de control para gestionar la operación de la microrred (Controlador Woodward easYgen-3500X y  módulo EPC), incluyendo la coordinación de protecciones (Relé SEL-751) y análisis de estabilidad.
+- Desarrollo de algoritmos para detección de noticias falsas por medio de NPl.
+- Desarrollo de algortimos de análisis de videos e imágenes aéreas para detección de anomalías para la protección de la amazonía colombiana.
 
 # Habilidades
 
-- Lenguajes de Programación: Python, C++, Visual Basic, SQL, MATLAB
+- Lenguajes de Programación: Python, Go, MATLAB, SQL, C++, Visual Basic 
 - Herramientas: Excel, Git, ROS, Simulink, Fusion360, ETAP,  Typhoon HIL - SCADA, PVsyst, HOMER Pro, QGIS
 - Idiomas: Inglés (Avanzado C1), Español (Nativo)

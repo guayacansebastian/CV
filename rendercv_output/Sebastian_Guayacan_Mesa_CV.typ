@@ -465,15 +465,15 @@
 
 
 #one-col-entry(
-  content: [Ingeniero Eléctrico y Electrónico con experiencia en desarrollo de software, automatización de procesos y arquitectura de sistemas. Apasionado por construir soluciones escalables y eficientes, con habilidades de programación e integración de Hardware y Software por medio de frameworks como ROS.]
+  content: [Ingeniero Eléctrico y Electrónico con experiencia en desarrollo de software, automatización de procesos y arquitectura de sistemas. Apasionado por construir soluciones escalables y eficientes, con habilidades de programación y conocimiento en frameworks, librerías y herramientas de IA.]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [En roles previos, diseñé pipelines de datos, algoritmos de visión computacional y monitoreo de sistemas por medio de SCADAs, siempre enfocado en optimización y una buena documentación de código y hardware. Disfruto colaborar en equipos ágiles, compartir conocimientos \(como monitor universitario\) y resolver problemas técnicos desafiantes.]
+  content: [En roles previos, diseñé pipelines de datos, algoritmos de visión computacional y APIs embebidas, siempre enfocado en optimización y documentación de código. Disfruto colaborar en equipos ágiles, compartir conocimientos \(como monitor universitario\) y resolver problemas técnicos desafiantes.]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [Busco aplicar mi experiencia en un entorno dinámico, donde pueda contribuir a proyectos ingenieriles en sistemas complejos.]
+  content: [Busco aplicar mi experiencia en un entorno dinámico, donde pueda contribuir al diseño e implementación de software de calidad y aprender de forma continua.]
 )
 
 
@@ -540,7 +540,7 @@ Jul 2023 – Ene 2024
     #strong[IBM], Practicante de portafolio de datos e inteligencia artificial
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Colaboré con el equipo de ventas digitales de productos de software de Data & AI para 9 países LATAM, brindando soporte técnico y asistencia en labores operativas.],[Realicé dimensionamiento técnico y demostración de soluciones de IA, análisis de datos, automatización de procesos y asistentes virtuales.],)
+    #v(design-highlights-top-margin);#highlights([Colaboré con el equipo de ventas digitales de productos de software de Data & AI para 9 países LATAM, brindando soporte técnico y asistencia en labores operativas.],[Realicé dimensionamiento técnico y demostración de soluciones de IA, análisis de datos, automatización de procesos \(RPA\) y asistentes virtuales.],)
   ],
   right-content: [
     Híbrido
@@ -561,21 +561,6 @@ Ene 2024 – Jun 2024
     Bogotá, Colombia
 
 Ene 2024 – Jun 2024
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes], Monitor del curso electrónica de potencia
-    #v(-design-text-leading)
-
-    #v(design-highlights-top-margin);#highlights([Asistí en la enseñanza de principios de semiconductores, elementos de sistemas eléctricos y diseño de conversores \(AC\/DC, DC\/DC, DC\/AC\).],[Ayudé a implementar proyectos de simulación en tiempo real \(HIL\) para rectificadores, transformadores tridevanados y control digital con modulación SPWM en aplicaciones industriales de BT\/MT \(SCADA Typhoon HIL\).],)
-  ],
-  right-content: [
-    Bogotá, Colombia
-
-Jul 2024 – Dic 2024
   ],
 )
 
@@ -628,12 +613,12 @@ Abr 2025 – Jul 2025
 
 #one-col-entry(
   content: [
-    #strong[Microrredes: Emulación en Tiempo Real de un Sistema HIL Conectado a la Red]
+    #strong[CODEFEST AD ASTRA 2023]
 
     #v(-design-text-leading)
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Evaluación de comportamiento de un sistema de microrred conectado a la red en distintos escenarios operativos.])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Segundo lugar en Hackatón organizada por la Universidad de los Andes y la Fuerza Aérea Colombiana.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Desarrollé un modelo de microrred con generación distribuida para emulación en tiempo real.],[Implementé un sistema de control para gestionar la operación de la microrred \(Controlador Woodward easYgen-3500X y  módulo EPC\), incluyendo la coordinación de protecciones \(Relé SEL-751\) y análisis de estabilidad.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Desarrollo de algoritmos para detección de noticias falsas por medio de NPl.],[Desarrollo de algortimos de análisis de videos e imágenes aéreas para detección de anomalías para la protección de la amazonía colombiana.],)
   ],
 )
 
@@ -643,7 +628,7 @@ Abr 2025 – Jul 2025
 
 
 #one-col-entry(
-  content: [#strong[Lenguajes de Programación:] Python, C++, Visual Basic, SQL, MATLAB]
+  content: [#strong[Lenguajes de Programación:] Python, Go, MATLAB, SQL, C++, Visual Basic]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
