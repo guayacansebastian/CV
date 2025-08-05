@@ -465,15 +465,15 @@
 
 
 #one-col-entry(
-  content: [Ingeniero Eléctrico y Electrónico con opción en matemática computacional, hábil para el desarrollo de soluciones de automatización y analítica de datos. Experiencia en implementación de pipelines de datos, APIs y sistemas embebidos usando Python. También tengo experiencia en diseño de sistemas eléctricos industriales y de generación de energía, dimensionamiento de equipos eléctricos, coordinación de protecciones y diseño de sistemas de potencia.]
+  content: [Ingeniero Eléctrico e Ingeniero Electrónico con opción en Matemática Computacional, especializado en diseño, análisis y documentación de sistemas eléctricos industriales y de generación de energía. Con experiencia en cálculo y dimensionamiento de equipos eléctricos, coordinación de protecciones, diseño de sistemas de potencia y conocimiento de normativas \(RETIE, NTC 2050\).]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [En proyectos recientes he diseñado arquitecturas para procesamiento de datos geoespaciales, automatización de procesos y documentación técnica para estándares de calidad.]
+  content: [En roles anteriores he brindado soporte técnico-comercial para portafolios tecnológicos, realizando dimensionamiento de soluciones, demostraciones técnicas y análisis de necesidades para clientes en LATAM. Manejo avanzado de Office 365 y programas de simulación para sistemas eléctricos como ETAP, PVsyst, HOMER Pro y Typhoon HIL.]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [Busco aplicar mis habilidades en programación y análisis de procesos para impulsar la digitalización en el sector eléctrico.]
+  content: [Busco contribuir con mi capacidad técnica, atención al detalle y disposición para el aprendizaje continuo. Me caracterizo por mi capacidad analítica para brindar soluciones en proyectos de ingeniería, experiencia en trabajo con equipos multidisciplinarios y gran adaptabilidad.]
 )
 
 
@@ -525,7 +525,7 @@ Ene 2020 – Abr 2025
     #strong[IBM - Digital Sales], Practicante de portafolio de sostenibilidad
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Brindé soporte técnico  al equipo de ventas digitales de productos de sostenibilidad en 5 países LATAM, dimensionamiento soluciones de gestión y desempeño de activos empresariales, mantenimiento predictivo con IA y análisis de huella de carbono con estándares ESG.],)
+    #v(design-highlights-top-margin);#highlights([Soporte técnico y comercial para clientes industriales en 5 países LATAM],[Dimensionamiento de soluciones de gestión y desempeño de activos empresariales \(ERP, APM, OMS\), mantenimiento predictivo con IA y análisis de huella de carbono con estándares ESG.],)
   ],
   right-content: [
     Híbrido
@@ -555,7 +555,7 @@ Ene 2024 – Jun 2024
     #strong[Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes], Monitor de cursos \(Economía de Sistemas de Potencia y Electrónica de Potencia\)
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Enseñanza asistida de conceptos técnicos avanzados: desde principios económicos de mercados eléctricos \(despacho económico, OPF\) hasta diseño de conversores de potencia \(AC\/DC, DC\/DC, DC\/AC\)],[Lideré simulaciones interactivas de mercado eléctrico, actuando como operador de red para gestionar ofertas en sistemas uninodales\/multinodales],[Implementación de proyectos con simulación en tiempo real \(HIL\): rectificadores, transformadores tridevanados y control digital con modulación SPWM],[Desarrollo de habilidades pedagógicas para explicar conceptos complejos y documentar procesos técnicos],)
+    #v(design-highlights-top-margin);#highlights([Enseñanza asistida de conceptos técnicos avanzados: desde principios económicos de mercados eléctricos \(despacho económico, OPF\) hasta diseño de conversores de potencia y control digital.],[Lideré simulaciones interactivas de mercado eléctrico, actuando como operador de red para gestionar ofertas en sistemas uninodales\/multinodales],[Implementación de proyectos con simulación en tiempo real \(HIL\): rectificadores, transformadores tridevanados y control digital con modulación SPWM],[Desarrollo de habilidades pedagógicas para explicar conceptos complejos y documentar procesos técnicos],)
   ],
   right-content: [
     Bogotá, Colombia
@@ -587,12 +587,12 @@ Abr 2025 – Jul 2025
 
 #one-col-entry(
   content: [
-    #strong[Robocol - Proyectos de Robótica e IoT \(2019-2025\)]
+    #strong[Robocol - Proyectos de Robótica e IoT \(2019-2023\)]
 
     #v(-design-text-leading)
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Líder de equipo en desarrollo de sistemas robóticos y dispositivos IoT])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Diseño e implementación \(Hardware y software\) de sistemas robóticos y dispositivos IoT usando Python y C++],[Integración de electrónica, software y mecánica con protocolos de comunicación industrial],[Programación de algoritmos para navegación autónoma, visión computacional y control de actuadores],[Documentación técnica completa para replicabilidad, cumpliendo estándares de calidad],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Diseño e implementación \(potencia, electrónica y software\) de sistemas robóticos y dispositivos IoT usando Python y C++],[Integración de electrónica, software y mecánica con protocolos de comunicación industrial],[Documentación técnica completa para replicabilidad, cumpliendo estándares de calidad],)
   ],
 )
 
@@ -628,11 +628,11 @@ Abr 2025 – Jul 2025
 
 
 #one-col-entry(
-  content: [#strong[Lenguajes de Programación:] Python, GO, SQL, MATLAB,C++, Visual Basic]
+  content: [#strong[Lenguajes de Programación:] Python, GO, SQL, MATLAB, C++, Visual Basic]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Herramientas:] Excel, PVsyst, ETAP, HOMER Pro, Simulink, Git, Typhoon HIL, AutoCAD, Visual Studio]
+  content: [#strong[Herramientas:] Ofice 365, ETAP, PVsyst, HOMER Pro, Simulink, Git, Typhoon HIL, AutoCAD, Visual Studio]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
