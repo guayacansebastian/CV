@@ -9,11 +9,11 @@
 
 # Acerca De Mí
 
-Ingeniero Eléctrico y Electrónico con opción en matemática computacional, hábil para el desarrollo de soluciones de automatización y analítica de datos. Experiencia en implementación de pipelines de datos, APIs y sistemas embebidos usando Python. También tengo experiencia en diseño de sistemas eléctricos industriales y de generación de energía, dimensionamiento de equipos eléctricos, coordinación de protecciones y diseño de sistemas de potencia.
+Ingeniero Eléctrico y Electrónico con sólida formación analítica en sistemas energéticos y modelado computacional. Experiencia en análisis técnico-económico de proyectos de generación distribuida (agrofotovoltaica, microrredes, renovables) y toma de decisiones basada en datos para desafíos de transición energética.
 
-En proyectos recientes he diseñado arquitecturas para procesamiento de datos geoespaciales, automatización de procesos y documentación técnica para estándares de calidad.
+En roles previos apoyé equipos de ventas digitales en LATAM analizando necesidades de clientes, dimensionando soluciones técnicas y traduciendo conceptos complejos a valor de negocio - habilidades directamente aplicables a consultoría. Mi trabajo académico incluye modelado de dinámicas de mercados energéticos  y desarrollo de sistemas de control para integración renovable.
 
-Busco aplicar mis habilidades en programación y análisis de procesos para impulsar la digitalización en el sector eléctrico.
+Destaco en: • Sintetizar datos técnicos en insights estratégicos • Analizar cadenas de valor energético  mediante simulaciones y cursos • Comunicar ideas complejas con claridad • Aplicar Python/SQL para análisis de datos energéticos y modelado de escenarios.
 
 # Educación
 
@@ -21,67 +21,52 @@ Busco aplicar mis habilidades en programación y análisis de procesos para impu
 
 - Ene 2020 – Abr 2025
 - Bogotá, Colombia
-- Tesis: Análisis técnico-económico de microrredes agrofotovoltaicas en ZNI, incluyendo estudios de flujo de potencia, dimensionamiento de protecciones y estabilidad.
-- Cursos Relevantes: Electrónica de potencia, sistemas  eléctricos industriales, microrredes, elementos de sistemas eléctricos, diseño de subestaciones eléctricas, optimización 
+- Tesis: Análisis técnico-económico de microrredes agrofotovoltaicas, incluyendo estudios de flujo de potencia, coordinación de protecciones y evaluación de estabilidad
+- Cursos Relevantes: Tópicos especiales para energías renovables, Economía energética, Optimización , Estructuras de datos/algoritmos
 
 ## Universidad de los Andes, BS in Ingeniería electrónica
 
 - Ene 2020 – Abr 2025
 - Bogotá, Colombia
 - Tesis: Modelado dinámico de cultivos en sistemas agrofotovoltaicos, con simulación de generación distribuida y análisis de estabilidad.
-- Cursos Relevantes: Estructuras de datos y algoritmos, aprendizaje y evolución de sistemas, sistemas de control, sistemas de apoyo a la decisión,  robótica.
+- Cursos Relevantes: Sistemas de control, sistemas de apoyo a la decisión, Colombia frente al cambio climático
 
 # Experiencia
 
-## IBM - Digital Sales, Practicante de portafolio de sostenibilidad
-
-- Jul 2023 – Ene 2024
-- Híbrido
-- Brindé soporte técnico  al equipo de ventas digitales de productos de sostenibilidad en 5 países LATAM, dimensionamiento soluciones de gestión y desempeño de activos empresariales, mantenimiento predictivo con IA y análisis de huella de carbono con estándares ESG.
-
 ## IBM - Digital Sales, Practicante de portafolio de datos e inteligencia artificial
 
-- Ene 2024 – Jun 2024
+- Jun 2023 – Jun 2024
 - Híbrido
-- Dimensionamiento técnico y demostraciones de soluciones de manejo de datos, IA y automatización de procesos (RPA) para 9 países LATAM
+- Brindé soporte técnico-comercial en soluciones de descarbonización, sostenibilidad, gestión de activos  e IA 9 países de LATAM, adaptando propuestas a requerimientos técnicos y de negocio en múltiples industrias.
+- Realicé evaluaciones técnicas de herramientas ESG y de gobernanza de IA, traduciendo sus capacidades en beneficios comerciales concretos para clientes empresariales.
+- Desarrollé pruebas de concepto de plataformas de sostenibilidad, IA y automatización, identificando casos de uso específicos y evaluando compensaciones costo-beneficio por sector.
 
 ## Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes, Monitor de cursos (Economía de Sistemas de Potencia y Electrónica de Potencia)
 
 - Ene 2024 – Dic 2024
 - Bogotá, Colombia
-- Enseñanza asistida de conceptos técnicos avanzados: desde principios económicos de mercados eléctricos (despacho económico, OPF) hasta diseño de conversores de potencia (AC/DC, DC/DC, DC/AC)
-- Lideré simulaciones interactivas de mercado eléctrico, actuando como operador de red para gestionar ofertas en sistemas uninodales/multinodales
-- Implementación de proyectos con simulación en tiempo real (HIL): rectificadores, transformadores tridevanados y control digital con modulación SPWM
-- Desarrollo de habilidades pedagógicas para explicar conceptos complejos y documentar procesos técnicos
+- Estructuré simulaciones interactivas de mercados eléctricos para enseñar toma de decisiones bajo restricciones técnicas
+- Documenté y simplifiqué conceptos complejos relacionados con mercados energéticos, electrónica de potencia para fuentes renovables y simualción de sistemas
 
 ## HERON Agrodrones - Independiente, Desarrollador e integrador de sistemas
 
 - Abr 2025 – Jul 2025
 - Remoto
-- Diseñé pipeline de procesamiento para imágenes multiespectrales usando Python, implementando algoritmos de visión computacional para detección de anomalías
-- Automatización de procesos y documentación técnica para estandarizar operaciones
-- Arquitectura de sistema para gestión de datos geoespaciales con integración de herramientas de IA
+- Construí pipelines de datos geoespaciales para generar insights accionables
+- Automatización de procesos y estandarización de documentación técnica
 
 # Proyectos
 
-## Robocol - Proyectos de Robótica e IoT (2019-2025)
+## Modelado de Microrredes
 
-- Diseño e implementación (Hardware y software) de sistemas robóticos y dispositivos IoT usando Python y C++
-- Integración de electrónica, software y mecánica con protocolos de comunicación industrial
-- Programación de algoritmos para navegación autónoma, visión computacional y control de actuadores
-- Documentación técnica completa para replicabilidad, cumpliendo estándares de calidad
+- Simulé escenarios de generación distribuida con diferentes fuentes de energía utilizando Python/SCADA, evaluando estabilidad y compensaciones operativas
 
 ## CODEFEST AD ASTRA 2023
 
-- Desarrollo de algoritmos para análisis de imágenes aéreas y detección de anomalías con Python
-
-## Modelado de Microrredes
-
-- Modelado y simulación de microrred con generación distribuida usando Python y herramientas de SCADA con Hardware-in-the-Loop (HIL)
-- Implementación de sistema de control automatizado con coordinación de protecciones, operación de generadores y análisis de estabilidad
+- Apliqué prototipado rápido para resolver desafíos ambientales (análisis de imágenes aéreas en la amazonía)
 
 # Habilidades
 
-- Lenguajes de Programación: Python, GO, SQL, MATLAB,C++, Visual Basic
-- Herramientas: Excel, PVsyst, ETAP, HOMER Pro, Simulink, Git, Typhoon HIL, AutoCAD, Visual Studio
+- Lenguajes de Programación: Python, GO, SQL, Visual Basic, MATLAB, C++
+- Herramientas de Análisis Energético: PVsyst, HOMER Pro, ETAP, Simulink
 - Idiomas: Inglés (Avanzado C1), Español (Nativo)
