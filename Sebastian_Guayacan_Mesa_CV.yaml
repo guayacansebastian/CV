@@ -1,5 +1,3 @@
-##########################################################################################################
-#Perfil ing eléctrico
 cv:
   name: Sebastian Guayacan Mesa
   location: Bogotá, CO
@@ -13,147 +11,84 @@ cv:
       username: guayacansebastian
   
   sections:
-  
-    # Acerca de mí:
-    #  - Ingeniero Eléctrico e Ingeniero Electrónico con opción en matemática computacional, apasionado por el diseño y análisis de sistemas eléctricos industriales y de generación de energía. Experiencia en cálculo y dimensionamiento de equipos eléctricos, coordinación de protecciones, diseño de sistemas de potencia y conocimiento  de normativas (RETIE, NTC 2050).
-    #  - En roles previos, brindé soporte técnico-comercial para portafolios de tecnología, realizando dimensionamiento de soluciones, demostraciones técnicas y análisis de necesidades para clientes en LATAM. Interesado en la pre-venta técnica, con habilidades para traducir requerimientos complejos en propuestas de valor. Manejo programas de simulación y diseño  de sistemas eléctricos como ETAP, PVsyst, HOMER Pro, Typhoon HIL y AutoCAD.
-    #  - Busco contribuir con mi capacidad técnica, enfoque en detalles de diseño y disposición para aprender del equipo. Destaco por mi habilidad de análisis  y brindar soluciones en proyectos ingenieriles; trabajar en equipo y disposición para aprender.  
     Acerca de mí:
-     - Ingeniero Eléctrico y Electrónico con opción en matemática computacional, hábil para el desarrollo de soluciones de automatización y analítica de datos. Experiencia en implementación de pipelines de datos, APIs y sistemas embebidos usando Python. También tengo experiencia en diseño de sistemas eléctricos industriales y de generación de energía, dimensionamiento de equipos eléctricos, coordinación de protecciones y diseño de sistemas de potencia.
-     - En proyectos recientes he diseñado arquitecturas para procesamiento de datos geoespaciales, automatización de procesos y documentación técnica para estándares de calidad. 
-     - Busco aplicar mis habilidades en programación y análisis de procesos para impulsar la digitalización en el sector eléctrico.
-
+        - "Ingeniero Eléctrico y Electrónico especializado en sistemas de potencia y generación renovable, con particular interés y pasión por proyectos fotovoltaicos y tecnologías de generación limpia. Experiencia en análisis técnico-económico de plantas de generación y microrredes, con sólidos conocimientos en protección, control y operación de sistemas eléctricos."
+        - "Con capacidad para el análisis de variables operativas, diagnóstico de fallas en equipos de generación (incluyendo inversores y electrónica de potencia) y desarrollo de soluciones técnicas innovadoras para optimizar procesos. Interés especial en operación y mantenimiento de sistemas de potencia."
+        - "Habilidades y características destacadas:
+          • Coordinación de sistemas de control, protección y potencia
+          • Análisis técnico y proposición de soluciones para optimización operativa
+          • Operación y monitoreo de plantas de generación (experiencia en simulaciones en tiempo real HIL)
+          • Conocimiento en inversores y electrónica de potencia (como monitor universitario)
+          • Implementación de metodologías para mejora continua
+          • Disponibilidad para reubicación geográfica"
     Educación:
       - institution: Universidad de los Andes
         area: Ingeniería eléctrica
-        degree: BS
         start_date: 2020-01
         end_date: 2025-04
         location: Bogotá, Colombia
         highlights:
-          - "Tesis: Análisis técnico-económico de microrredes agrofotovoltaicas en ZNI, incluyendo estudios de flujo de potencia, dimensionamiento de protecciones y estabilidad."
-          - "Cursos Relevantes: Electrónica de potencia, sistemas  eléctricos industriales, microrredes, elementos de sistemas eléctricos, diseño de subestaciones eléctricas, optimización "
+          - "Tesis: Análisis técnico-económico de microrredes agrofotovoltaicas, incluyendo estudios de flujo de potencia, coordinación de protecciones y evaluación de estabilidad"
+          - "Cursos Relevantes: Electrónica de potencia, Tópicos de energías renovables, Microrredes, Sistemas eléctricos industriales, diseño de subestaciones"
             
       - institution: Universidad de los Andes
         area: Ingeniería electrónica
-        degree: BS
         start_date: 2020-01
         end_date: 2025-04
         location: Bogotá, Colombia
         highlights:
-            - "Tesis: Modelado dinámico de cultivos en sistemas agrofotovoltaicos, con simulación de generación distribuida y análisis de estabilidad."
-            - "Cursos Relevantes: Estructuras de datos y algoritmos, aprendizaje y evolución de sistemas, sistemas de control, sistemas de apoyo a la decisión,  robótica."
+          - "Tesis: Modelado dinámico de sistemas agrofotovoltaicos con análisis de estabilidad"
+          - "Cursos Relevantes: Sistemas de control, Instrumentación, Optimización."
 
     Experiencia:
-      
-      - company: IBM - Digital Sales
-        position: Practicante de portafolio de sostenibilidad
-        start_date: 2023-07
-        end_date: 2024-01
-        location: Híbrido
-        highlights:
-          - Brindé soporte técnico  al equipo de ventas digitales de productos de sostenibilidad en 5 países LATAM, dimensionamiento soluciones de gestión y desempeño de activos empresariales, mantenimiento predictivo con IA y análisis de huella de carbono con estándares ESG.
-
-          
-      - company: IBM - Digital Sales 
-        position: Practicante de portafolio de datos e inteligencia artificial
-        start_date: 2024-01
-        end_date: 2024-06
-        location: Híbrido
-        highlights:
-          - Dimensionamiento técnico y demostraciones de soluciones de manejo de datos, IA y automatización de procesos (RPA) para 9 países LATAM
-          # - Demostración de productos de análisis de datos y asistentes virtuales
-      # - company: Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes
-      #   position: Monitor del curso economía de sistemas de potencia
-      #   start_date: 2024-01
-      #   end_date: 2024-06
-      #   location: Bogotá, Colombia
-      #   highlights:
-      #     - Asistí en la enseñanza de principios económicos de sistemas de potencia, incluyendo despacho económico, flujo óptimo de potencia (OPF), y casación de energía desde la perspectiva de actores del mercado eléctrico.
-      #     - Organicé y dirigí una simulación interactiva de mercado eléctrico, actuando como operador de red para gestionar ofertas de energía en sistemas uninodales y multinodales, ejecutar despacho económico y OPF.
-         
-      # - company: Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes
-      #   position: Monitor del curso electrónica de potencia
-      #   start_date: 2024-07
-      #   end_date: 2024-12
-      #   location: Bogotá, Colombia
-      #   highlights:
-      #     - "Asistí en la enseñanza de principios de semiconductores, elementos de sistemas eléctricos y diseño de conversores (AC/DC, DC/DC, DC/AC)."
-      #     - "Ayudé a implementar proyectos de simulación en tiempo real (HIL) para rectificadores, transformadores tridevanados y control digital con modulación SPWM en aplicaciones industriales de BT/MT."
-
       - company: Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes
         position: Monitor de cursos (Economía de Sistemas de Potencia y Electrónica de Potencia)
         start_date: 2024-01
         end_date: 2024-12
         location: Bogotá, Colombia
         highlights:
-          - "Enseñanza asistida de conceptos técnicos avanzados: desde principios económicos de mercados eléctricos (despacho económico, OPF) hasta diseño de conversores de potencia (AC/DC, DC/DC, DC/AC)"
-          - "Lideré simulaciones interactivas de mercado eléctrico, actuando como operador de red para gestionar ofertas en sistemas uninodales/multinodales"
-          - "Implementación de proyectos con simulación en tiempo real (HIL): rectificadores, transformadores tridevanados y control digital con modulación SPWM"
-          - "Desarrollo de habilidades pedagógicas para explicar conceptos complejos y documentar procesos técnicos"
+          - "Simulación y análisis de operación de sistemas de potencia, incluyendo despacho económico y flujo óptimo de potencia"
+          - "Implementación de proyectos con simulación en tiempo real (HIL) para sistemas de potencia y electrónica de potencia"
+          - "Análisis de estabilidad y coordinación de protecciones en sistemas eléctricos"
+
       - company: HERON Agrodrones - Independiente
         position: Desarrollador e integrador de sistemas
         start_date: 2025-04
         end_date: 2025-07
         location: Remoto
         highlights:
-          - Diseñé pipeline de procesamiento para imágenes multiespectrales usando Python, implementando algoritmos de visión computacional para detección de anomalías
-          - Automatización de procesos y documentación técnica para estandarizar operaciones
-          - Arquitectura de sistema para gestión de datos geoespaciales con integración de herramientas de IA
-      
-    Proyectos:
-    - name: Robocol - Proyectos de Robótica e IoT (2019-2025)
-      summary: Líder de equipo en desarrollo de sistemas robóticos y dispositivos IoT
-      highlights:
-        - Diseño e implementación (Hardware y software) de sistemas robóticos y dispositivos IoT usando Python y C++
-        - Integración de electrónica, software y mecánica con protocolos de comunicación industrial 
-        - Programación de algoritmos para navegación autónoma, visión computacional y control de actuadores
-        - Documentación técnica completa para replicabilidad, cumpliendo estándares de calidad
-    - name: CODEFEST AD ASTRA 2023
-      summary: Segundo lugar en Hackatón organizada por Universidad de los Andes y Fuerza Aére)
-      highlights: 
-        - Desarrollo de algoritmos para análisis de imágenes aéreas y detección de anomalías con Python
-    - name: Modelado de Microrredes
-      summary: Desarrollo e implementación de sistema de control para microrredes en tiempo real
-      highlights:
-        - Modelado y simulación de microrred con generación distribuida usando Python y herramientas de SCADA con Hardware-in-the-Loop (HIL)
-        - Implementación de sistema de control automatizado con coordinación de protecciones, operación de generadores y análisis de estabilidad
-        # - name: CODEFEST AD ASTRA 2023
-    #   summary: Segundo lugar en Hackatón (Análisis de imágenes aéreas)
-    #   highlights: 
-    #     - Desarrollo de algoritmos Python para procesamiento de imágenes multiespectrales
-    #     - Implementación de modelos para detección de anomalías en tiempo real
-    # - name: Robocol
-    #   summary: Líder de equipo de robótica competitiva y divulgación STEM
-    #   highlights:
-    #     - "Lideré el diseño eléctrico para un rover marciano: Diseño de planos del sistema eléctrico y de potencia, diseño de sistema de comunicaciones y programación de algoritmos."
-    #     - "Participé en competencias nacionales e internacionales de programación y robótica, desarrollando habilidades de trabajo en equipo y resolución de problemas en contextos técnicos exigentes."
-    #     - "Programé algoritmos de navegación, reconocimiento de imágenes y lógica de operación, aplicando metodologías de optimización para el desempeño del sistema."  
+          - "Diseño e implementación de sistemas de monitoreo y control para aplicaciones  de visión computacional"
+          - "Automatización de procesos y generación de reportes técnicos"
 
-    # - name: Sistemas Embebidos & Automatización 
-    #   summary: Diseño e integración de dispositivos IoT (2 proyectos)
-    #   highlights:
-    #       - "Diseñé el sistema electrónico de una electrodomésticos IoT, incluyendo planos eléctricos elaborado y modelado CAD de la estructura mecánica."
-    #       - "Trabajé de manera colaborativa en la integración de electrónica, mecánica y control, aplicando principios de documentación técnica, manufactura y optimización del diseño."
-    # - name: "Microrredes: Emulación en Tiempo Real de un Sistema HIL Conectado a la Red"
-      # summary: Evaluación de comportamiento de un sistema de microrred conectado a la red en distintos escenarios operativos.
-      # highlights:
-      #   - "Desarrollé un modelo de microrred con generación distribuida para emulación en tiempo real."
-      #   - "Implementé un sistema de control para gestionar la operación de la microrred (Controlador Woodward easYgen-3500X y  módulo EPC), incluyendo la coordinación de protecciones (Relé SEL-751) y análisis de estabilidad (sistema SCADA)."
-        # - "Realicé estudios de flujo de potencia y análisis de contingencias para evaluar el comportamiento del sistema bajo diferentes condiciones operativas."
+    Proyectos:
+      - name: Modelado de Microrredes
+        summary: Desarrollo e implementación de sistema de control para microrredes en tiempo real
+        highlights:
+          - "Modelado y simulación de microrred con generación distribuida usando Python y herramientas de SCADA"
+          - "Implementación de sistema de control automatizado con coordinación de protecciones"
+          - "Análisis de estabilidad y operación bajo diferentes escenarios"
+
+      - name: Robocol - Proyectos de Robótica e IoT
+        summary: Desarrollo de sistemas robóticos y dispositivos IoT
+        highlights:
+          - "Diseño e implementación de sistemas de control para aplicaciones industriales"
+          - "Integración de electrónica, software y sistemas de potencia"
+
     Habilidades:
+        - label: Sistemas Eléctricos
+          details: "Protecciones, control, simulación, electrónica de potencia, sistemas SCADA"
         - label: Lenguajes de Programación
-          details: "Python, GO, SQL, MATLAB,C++, Visual Basic"
+          details: "Python, MATLAB, C++, Go, Visual Basic"
         - label: Herramientas 
-          details: "Excel, PVsyst, ETAP, HOMER Pro, Simulink, Git, Typhoon HIL, AutoCAD, Visual Studio"
-        
+          details: " PVsyst, ETAP, Simulink, Typhoon HIL, AutoCAD, Ofice Suite"
         - label: Idiomas
-          details: "Inglés (Avanzado C1), Español (Nativo)"      
+          details: "Inglés (Avanzado C1), Español (Nativo)"
+
   design:
-  theme: engineeringclassic
+    theme: engineeringclassic
 
 locale:
-  language: es  # Asegúrate que esté en español
+  language: es
   phone_number_format: national
   page_numbering_template: NAME - Página PAGE_NUMBER de TOTAL_PAGES
   last_updated_date_template: Actualizado en Julio-2025
@@ -194,5 +129,4 @@ locale:
 rendercv_settings:
   date: '2025-03-26'
   render_command:
-  bold_keywords: []  
-  #################################################################################################3
+  bold_keywords: []
