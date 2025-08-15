@@ -7,80 +7,98 @@
 - GitHub: [guayacansebastian](https://github.com/guayacansebastian)
 
 
-# Acerca De Mí
+# About Me
 
-Ingeniero Eléctrico y Electrónico con experiencia en desarrollo de software, automatización de procesos y arquitectura de sistemas. Apasionado por construir soluciones escalables y eficientes, con habilidades de programación y conocimiento en frameworks, librerías y herramientas de IA.
+Electronics  and Electrical Engineer with a minor in Computational Mathematics, experienced in software development for robotics and embedded systems. Proficient in Python and C++ for low-level development, computer vision algorithms, differential robot control, and simulation environments (ROS/Gazebo).
 
-En roles previos, diseñé pipelines de datos, algoritmos de visión computacional y APIs embebidas, siempre enfocado en optimización y documentación de código. Disfruto colaborar en equipos ágiles, compartir conocimientos (como monitor universitario) y resolver problemas técnicos desafiantes.
+Key experience: • Design and implementation of testing frameworks for embedded systems • Process automation with Python/Bash in Linux environments (Ubuntu) • Continuous integration with GitHub/GitLab CI/CD • Technical documentation of test cases and reports.
 
-Busco aplicar mi experiencia en un entorno dinámico, donde pueda contribuir al diseño e implementación de software de calidad y aprender de forma continua.
+I stand out for my analytical skills to address technical challenges, fast learning ability, and adaptability in collaborative environments. I seek to apply these skills in innovative projects integrating robotics, artificial intelligence, and robust system development.
 
-# Educación
+# Education
 
-## Universidad de los Andes, BS in Ingeniería electrónica
+## Universidad de los Andes, BS in Electronics Engineering
 
-- Ene 2020 – Abr 2025
+- Jan 2020 – Apr 2025
 - Bogotá, Colombia
-- Tesis: Modelado dinámico de cultivos en sistemas agrofotovoltaicos, con simulación de generación distribuida y análisis de estabilidad.
-- Cursos Relevantes: Sistemas de apoyo a la decisión, estructuras de datos y algoritmos, sistemas de control, aprendizaje y evolución de sistemas, robótica.
+- Thesis: Dynamic modeling of crops in agrophotovoltaic systems, with distributed generation simulation and stability analysis.
+- Minor: Computational Mathematics
+- Relevant Courses: Data structures and algorithms, Robotics, Optimization, Learning and evolution of systems.
 
-## Universidad de los Andes, BS in Ingeniería eléctrica
+## Universidad de los Andes, BS in Electrical Engineering
 
-- Ene 2020 – Abr 2025
+- Jan 2020 – Apr 2025
 - Bogotá, Colombia
-- Tesis: Análisis técnico-económico de microrredes agrofotovoltaicas en ZNI, incluyendo estudios de flujo de potencia y dimensionamiento de protecciones.
-- Cursos Relevantes: Elementos de sistemas eléctricos, sistemas industriales, optimización 
+- Thesis: Technical-economic analysis of agrophotovoltaic microgrids in non-interconnected zones, including power flow studies and protection sizing.
+- Relevant Courses: Elements of electrical systems, Industrial systems, Microgrids
 
-# Experiencia
+# Experience
 
-## IBM, Practicante de portafolio de sostenibilidad
+## HERON Agrodrones - Freelance, Systems Developer and Integrator
 
-- Jul 2023 – Ene 2024
-- Híbrido
-- Brindé soporte técnico especializado al equipo de ventas digitales de productos de sostenibilidad en 5 países LATAM, dimensionamiento soluciones de gestión y desempeño de activos empresariales (OMS, ERP, APM, Visual inspection), mantenimiento predictivo con IA y análisis de huella de carbono con estándares ESG.
-
-## IBM, Practicante de portafolio de datos e inteligencia artificial
-
-- Ene 2024 – Jun 2024
-- Híbrido
-- Colaboré con el equipo de ventas digitales de productos de software de Data & AI para 9 países LATAM, brindando soporte técnico y asistencia en labores operativas.
-- Realicé dimensionamiento técnico y demostración de soluciones de IA, análisis de datos, automatización de procesos (RPA) y asistentes virtuales.
-
-## Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes, Monitor del curso economía de sistemas de potencia
-
-- Ene 2024 – Jun 2024
+- Apr 2025 – Jul 2025
 - Bogotá, Colombia
-- Lideré una simulación interactiva de mercado eléctrico para 30+ estudiantes, explicando conceptos complejos (despacho económico, flujo óptimo).
-- Actué como operador de red, interpretando necesidades de actores del mercado y traduciéndolas a configuraciones técnicas en sistemas uninodales/multinodales.
+- Design and automation of analysis pipeline for crop visual inspection: Multispectral image processing, specialized index calculation algorithms and models for anomaly detection and health status evaluation.
+- Georeferenced data management: Processing architecture for georeferenced images, integration of computer vision tools, optimization and AI frameworks to generate vegetation health maps and recommendations.
+- Automation of repetitive processes and standardization of technical documentation to facilitate decision making.
 
-## HERON Agrodrones - Independiente, Desarrollador e integrador de sistemas
+## Electrical and Electronics Engineering Department, Universidad de los Andes, Teaching Assistant: Power Systems Economics and Power Electronics
 
-- Abr 2025 – Jul 2025
-- Remoto
-- Diseño y automatización del pipeline de análisis para inspección visual de cultivos: Procesamiento de imágenes multiespectrales, algoritmos de cálculo de índices especializados y modelos para detección de anomalías y evaluación de estado de salud.
-- Gestión de datos geoereferenciados: Arquitectura de procesamiento para imágenes georreferenciadas, integración de herramientas de visión computacional, optimización y frameworks de IA para generar mapas de salud vegetal y recomendaciones.
-- Automatización de procesos repetitivos y estandarización de documentación técnica para facilitar toma de decisiones.
+- Jan 2024 – Dec 2024
+- Bogotá, Colombia
+- Simulation and analysis of power system operation, including economic dispatch and optimal power flow
+- Implementation of projects with real-time simulation (HIL) for power systems and power electronics
+- Stability analysis and protection coordination in electrical systems
 
-# Proyectos
+## IBM, Data & AI Portfolio Intern
+
+- Jan 2024 – Jun 2024
+- Bogotá, Colombia
+- Collaborated with the digital sales team for Data & AI software products in 9 LATAM countries, providing technical support and operational assistance.
+- Performed technical sizing and demonstration of AI solutions, data analysis, process automation (RPA) and virtual assistants.
+
+## IBM, Sustainability Portfolio Intern
+
+- Jul 2023 – Jan 2024
+- Bogotá, Colombia
+- Provided specialized technical support to the digital sales team for sustainability products in 5 LATAM countries, sizing solutions for enterprise asset management (OMS, ERP, APM, Visual inspection), predictive maintenance with AI and carbon footprint analysis with ESG standards.
+
+# Projects
+
+## Embedded Systems & Automation
+
+- Jun 2022 – Jun 2023
+- Electronic, software and mechanical integration in automated devices, using Python and C++ for control logic, utilizing various communication protocols.
+- Development of Python Interface for remote configuration and monitoring
+- Creation of integration manuals and code standardization (Git), focused on replicability and scalability
 
 ## Robocol
 
-- Programé algoritmos de comunicación para un rover marciano, usando Python y C++ en distribuciones UNIX para procesar datos de sensores y enviar comandos a actuadores. Configuración de sistemas de comunicaciones remotas y asignación de direcciones IP a  los equipos del robot.
-- Apliqué frameworks de visión computacional y algoritmos de navegación autónoma para el cumplimiento de tareas integradas por medio del framework ROS.
-- Participé en competencias internacionales de robótica y Hackatones, resolviendo problemas técnicos (robótica, visión computacional, LLM) bajo presión.
+- Jun 2021 – Jun 2023
+- Development of navigation, computer vision and control algorithms in Python and C++ for motor control and sensors of a differential rover, including electronic circuit design and communication architecture.
+- Implementation of navigation algorithms in Python (ROS2) with low-level integration.
+- Advanced debugging of concurrency and timing issues in electronic and control systems.
 
-## Sistemas Embebidos & Automatización
-
-- Integré electrónica, software y mecánica en dispositivos automatizados, usando Python y C++ para lógica de control, haciendo uso de varios protocolos de comunicación.
-- Elaboré manuales de integración y estandarización de código (Git), enfocados en replicabilidad y escalabilidad
+# Awards and Honors
 
 ## CODEFEST AD ASTRA 2023
 
-- Desarrollo de algoritmos para detección de noticias falsas por medio de NPl.
-- Desarrollo de algortimos de análisis de videos e imágenes aéreas para detección de anomalías para la protección de la amazonía colombiana.
+- May 2023
+- Development of video and aerial image analysis algorithms for anomaly detection to protect the Colombian Amazon utilizing Yolo and EasyOCR.
+- Development of NLP algorithms for text analysis and classification of public media.
 
-# Habilidades
+## Scholarship: Quiero Estudiar -Universidad de los Andes
 
-- Lenguajes de Programación: Python, Go, MATLAB, SQL, C++, Visual Basic 
-- Herramientas: Excel, Git, ROS, Simulink, Fusion360, ETAP,  Typhoon HIL - SCADA, PVsyst, HOMER Pro, QGIS
-- Idiomas: Inglés (Avanzado C1), Español (Nativo)
+- Dec 2019
+- Awarded for academic excellence and leadership potential.
+
+# Skills
+
+- Programming Languages: Python, Go, C++, Verilog (basic), MATLAB, SQL, Visual Basic
+- Tools: Visual Studio Code, Office Suite, Github, ROS2, Gazebo, Simulink, Typhoon HIL - SCADA
+- Languages: English (Advanced C1), Spanish (Native)
+# References
+
+## Abailable upon request
+
+

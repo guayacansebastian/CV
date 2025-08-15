@@ -2,9 +2,9 @@
 #import "@preview/fontawesome:0.5.0": fa-icon
 
 #let name = "Sebastian Guayacan Mesa"
-#let locale-catalog-page-numbering-style = context { "Sebastian Guayacan Mesa - Página " + str(here().page()) + " de " + str(counter(page).final().first()) + "" }
-#let locale-catalog-last-updated-date-style = "Actualizado en Julio-2025"
-#let locale-catalog-language = "es"
+#let locale-catalog-page-numbering-style = context { "Sebastian Guayacan Mesa - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
+#let locale-catalog-last-updated-date-style = "Updated July-2025"
+#let locale-catalog-language = "en"
 #let design-page-size = "us-letter"
 #let design-section-titles-font-size = 1.4em
 #let design-colors-text = rgb(0, 0, 0)
@@ -461,23 +461,23 @@
 
 
 
-== Acerca De Mí
+== About Me
 
 
 #one-col-entry(
-  content: [Ingeniero Eléctrico y Electrónico con experiencia en desarrollo de software, automatización de procesos y arquitectura de sistemas. Apasionado por construir soluciones escalables y eficientes, con habilidades de programación y conocimiento en frameworks, librerías y herramientas de IA.]
+  content: [Electronics  and Electrical Engineer with a minor in Computational Mathematics, experienced in software development for robotics and embedded systems. Proficient in Python and C++ for low-level development, computer vision algorithms, differential robot control, and simulation environments \(ROS\/Gazebo\).]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [En roles previos, diseñé pipelines de datos, algoritmos de visión computacional y APIs embebidas, siempre enfocado en optimización y documentación de código. Disfruto colaborar en equipos ágiles, compartir conocimientos \(como monitor universitario\) y resolver problemas técnicos desafiantes.]
+  content: [Key experience: • Design and implementation of testing frameworks for embedded systems • Process automation with Python\/Bash in Linux environments \(Ubuntu\) • Continuous integration with GitHub\/GitLab CI\/CD • Technical documentation of test cases and reports.]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [Busco aplicar mi experiencia en un entorno dinámico, donde pueda contribuir al diseño e implementación de software de calidad y aprender de forma continua.]
+  content: [I stand out for my analytical skills to address technical challenges, fast learning ability, and adaptability in collaborative environments. I seek to apply these skills in innovative projects integrating robotics, artificial intelligence, and robust system development.]
 )
 
 
-== Educación
+== Education
 
 
 // YES DATE, YES DEGREE
@@ -485,15 +485,15 @@
   left-column-width: 1cm,
   left-content: [#strong[BS]],
   middle-content: [
-    #strong[Universidad de los Andes], Ingeniería electrónica
+    #strong[Universidad de los Andes], Electronics Engineering
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Tesis: Modelado dinámico de cultivos en sistemas agrofotovoltaicos, con simulación de generación distribuida y análisis de estabilidad.],[Cursos Relevantes: Sistemas de apoyo a la decisión, estructuras de datos y algoritmos, sistemas de control, aprendizaje y evolución de sistemas, robótica.],)
+    #v(design-highlights-top-margin);#highlights([Thesis: Dynamic modeling of crops in agrophotovoltaic systems, with distributed generation simulation and stability analysis.],[Minor: Computational Mathematics],[Relevant Courses: Data structures and algorithms, Robotics, Optimization, Learning and evolution of systems.],)
   ],
   right-content: [
     Bogotá, Colombia
 
-Ene 2020 – Abr 2025
+Jan 2020 – Apr 2025
   ],
 )
 
@@ -503,140 +503,187 @@ Ene 2020 – Abr 2025
   left-column-width: 1cm,
   left-content: [#strong[BS]],
   middle-content: [
-    #strong[Universidad de los Andes], Ingeniería eléctrica
+    #strong[Universidad de los Andes], Electrical Engineering
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Tesis: Análisis técnico-económico de microrredes agrofotovoltaicas en ZNI, incluyendo estudios de flujo de potencia y dimensionamiento de protecciones.],[Cursos Relevantes: Elementos de sistemas eléctricos, sistemas industriales, optimización ],)
+    #v(design-highlights-top-margin);#highlights([Thesis: Technical-economic analysis of agrophotovoltaic microgrids in non-interconnected zones, including power flow studies and protection sizing.],[Relevant Courses: Elements of electrical systems, Industrial systems, Microgrids],)
   ],
   right-content: [
     Bogotá, Colombia
 
-Ene 2020 – Abr 2025
+Jan 2020 – Apr 2025
   ],
 )
 
 
 
-== Experiencia
+== Experience
 
 
 #two-col-entry(
   left-content: [
-    #strong[IBM], Practicante de portafolio de sostenibilidad
+    #strong[HERON Agrodrones - Freelance], Systems Developer and Integrator
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Brindé soporte técnico especializado al equipo de ventas digitales de productos de sostenibilidad en 5 países LATAM, dimensionamiento soluciones de gestión y desempeño de activos empresariales \(OMS, ERP, APM, Visual inspection\), mantenimiento predictivo con IA y análisis de huella de carbono con estándares ESG.],)
-  ],
-  right-content: [
-    Híbrido
-
-Jul 2023 – Ene 2024
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[IBM], Practicante de portafolio de datos e inteligencia artificial
-    #v(-design-text-leading)
-
-    #v(design-highlights-top-margin);#highlights([Colaboré con el equipo de ventas digitales de productos de software de Data & AI para 9 países LATAM, brindando soporte técnico y asistencia en labores operativas.],[Realicé dimensionamiento técnico y demostración de soluciones de IA, análisis de datos, automatización de procesos \(RPA\) y asistentes virtuales.],)
-  ],
-  right-content: [
-    Híbrido
-
-Ene 2024 – Jun 2024
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Departamento Ingeniería Eléctrica y Electrónica, Universidad de los Andes], Monitor del curso economía de sistemas de potencia
-    #v(-design-text-leading)
-
-    #v(design-highlights-top-margin);#highlights([Lideré una simulación interactiva de mercado eléctrico para 30+ estudiantes, explicando conceptos complejos \(despacho económico, flujo óptimo\).],[Actué como operador de red, interpretando necesidades de actores del mercado y traduciéndolas a configuraciones técnicas en sistemas uninodales\/multinodales.],)
+    #v(design-highlights-top-margin);#highlights([Design and automation of analysis pipeline for crop visual inspection: Multispectral image processing, specialized index calculation algorithms and models for anomaly detection and health status evaluation.],[Georeferenced data management: Processing architecture for georeferenced images, integration of computer vision tools, optimization and AI frameworks to generate vegetation health maps and recommendations.],[Automation of repetitive processes and standardization of technical documentation to facilitate decision making.],)
   ],
   right-content: [
     Bogotá, Colombia
 
-Ene 2024 – Jun 2024
+Apr 2025 – Jul 2025
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[HERON Agrodrones - Independiente], Desarrollador e integrador de sistemas
+    #strong[Electrical and Electronics Engineering Department, Universidad de los Andes], Teaching Assistant: Power Systems Economics and Power Electronics
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Diseño y automatización del pipeline de análisis para inspección visual de cultivos: Procesamiento de imágenes multiespectrales, algoritmos de cálculo de índices especializados y modelos para detección de anomalías y evaluación de estado de salud.],[Gestión de datos geoereferenciados: Arquitectura de procesamiento para imágenes georreferenciadas, integración de herramientas de visión computacional, optimización y frameworks de IA para generar mapas de salud vegetal y recomendaciones.],[Automatización de procesos repetitivos y estandarización de documentación técnica para facilitar toma de decisiones.],)
+    #v(design-highlights-top-margin);#highlights([Simulation and analysis of power system operation, including economic dispatch and optimal power flow],[Implementation of projects with real-time simulation \(HIL\) for power systems and power electronics],[Stability analysis and protection coordination in electrical systems],)
   ],
   right-content: [
-    Remoto
+    Bogotá, Colombia
 
-Abr 2025 – Jul 2025
+Jan 2024 – Dec 2024
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[IBM], Data & AI Portfolio Intern
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Collaborated with the digital sales team for Data & AI software products in 9 LATAM countries, providing technical support and operational assistance.],[Performed technical sizing and demonstration of AI solutions, data analysis, process automation \(RPA\) and virtual assistants.],)
+  ],
+  right-content: [
+    Bogotá, Colombia
+
+Jan 2024 – Jun 2024
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[IBM], Sustainability Portfolio Intern
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Provided specialized technical support to the digital sales team for sustainability products in 5 LATAM countries, sizing solutions for enterprise asset management \(OMS, ERP, APM, Visual inspection\), predictive maintenance with AI and carbon footprint analysis with ESG standards.],)
+  ],
+  right-content: [
+    Bogotá, Colombia
+
+Jul 2023 – Jan 2024
   ],
 )
 
 
 
-== Proyectos
+== Projects
 
 
-
+#two-col-entry(
+  left-content: [
+    #strong[Embedded Systems & Automation]
+  ],
+  right-content: [
+    Jun 2022 – Jun 2023
+  ],
+)
 #one-col-entry(
   content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [IoT device design and integration \(2 combined projects\)])], column-gutter: 0cm)
+
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Electronic, software and mechanical integration in automated devices, using Python and C++ for control logic, utilizing various communication protocols.],[Development of Python Interface for remote configuration and monitoring],[Creation of integration manuals and code standardization \(Git\), focused on replicability and scalability],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
     #strong[Robocol]
+  ],
+  right-content: [
+    Jun 2021 – Jun 2023
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Competitive robotics team leader and STEM outreach])], column-gutter: 0cm)
 
-    #v(-design-text-leading)
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Líder de equipo de robótica competitiva y divulgación STEM])], column-gutter: 0cm)
-
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Programé algoritmos de comunicación para un rover marciano, usando Python y C++ en distribuciones UNIX para procesar datos de sensores y enviar comandos a actuadores. Configuración de sistemas de comunicaciones remotas y asignación de direcciones IP a  los equipos del robot.],[Apliqué frameworks de visión computacional y algoritmos de navegación autónoma para el cumplimiento de tareas integradas por medio del framework ROS.],[Participé en competencias internacionales de robótica y Hackatones, resolviendo problemas técnicos \(robótica, visión computacional, LLM\) bajo presión.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Development of navigation, computer vision and control algorithms in Python and C++ for motor control and sensors of a differential rover, including electronic circuit design and communication architecture.],[Implementation of navigation algorithms in Python \(ROS2\) with low-level integration.],[Advanced debugging of concurrency and timing issues in electronic and control systems.],)
   ],
 )
 
-#v(design-entries-vertical-space-between-entries)
 
-#one-col-entry(
-  content: [
-    #strong[Sistemas Embebidos & Automatización]
 
-    #v(-design-text-leading)
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Diseño e integración de dispositivos IoT \(2 proyectos combinados\)])], column-gutter: 0cm)
+== Awards and Honors
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Integré electrónica, software y mecánica en dispositivos automatizados, usando Python y C++ para lógica de control, haciendo uso de varios protocolos de comunicación.],[Elaboré manuales de integración y estandarización de código \(Git\), enfocados en replicabilidad y escalabilidad],)
-  ],
-)
 
-#v(design-entries-vertical-space-between-entries)
-
-#one-col-entry(
-  content: [
+#two-col-entry(
+  left-content: [
     #strong[CODEFEST AD ASTRA 2023]
+  ],
+  right-content: [
+    May 2023
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Second place in Hackathon hosted by  Colombian Air Force and Universidad de los Andes.])], column-gutter: 0cm)
 
-    #v(-design-text-leading)
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Segundo lugar en Hackatón organizada por la Universidad de los Andes y la Fuerza Aérea Colombiana.])], column-gutter: 0cm)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Development of video and aerial image analysis algorithms for anomaly detection to protect the Colombian Amazon utilizing Yolo and EasyOCR.],[Development of NLP algorithms for text analysis and classification of public media.],)
+  ],
+)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Desarrollo de algoritmos para detección de noticias falsas por medio de NPl.],[Desarrollo de algortimos de análisis de videos e imágenes aéreas para detección de anomalías para la protección de la amazonía colombiana.],)
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Scholarship: Quiero Estudiar -Universidad de los Andes]
+  ],
+  right-content: [
+    Dec 2019
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Full scholarship for undergraduate studies in Electronics and Electrical Engineering.])], column-gutter: 0cm)
+
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Awarded for academic excellence and leadership potential.],)
   ],
 )
 
 
 
-== Habilidades
+== Skills
 
 
 #one-col-entry(
-  content: [#strong[Lenguajes de Programación:] Python, Go, MATLAB, SQL, C++, Visual Basic]
+  content: [#strong[Programming Languages:] Python, Go, C++, Verilog \(basic\), MATLAB, SQL, Visual Basic]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Herramientas:] Excel, Git, ROS, Simulink, Fusion360, ETAP,  Typhoon HIL - SCADA, PVsyst, HOMER Pro, QGIS]
+  content: [#strong[Tools:] Visual Studio Code, Office Suite, Github, ROS2, Gazebo, Simulink, Typhoon HIL - SCADA]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Idiomas:] Inglés \(Avanzado C1\), Español \(Nativo\)]
+  content: [#strong[Languages:] English \(Advanced C1\), Spanish \(Native\)]
 )
+
+
+== References
+
+
+
+#one-col-entry(
+  content: [
+    #strong[Abailable upon request]
+
+    
+  ],
+)
+
 
 
